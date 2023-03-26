@@ -3,5 +3,6 @@
         PNLRICE.AutoScroll = True
         PNLRICE.VerticalScroll.Visible = False Or PNLRICE.HorizontalScroll.Visible = False
 
+
     End Sub
 End Class

@@ -2,12 +2,20 @@
 
 Public Class USRCRTLMEMBERGIFT
 
-    Private Sub USRCRTLMEMBERGIFT_Load(sender As Object, e As EventArgs) Handles Me.Load
-        PNLMEM.AutoScroll = True
-        PNLMEM.VerticalScroll.Visible = True Or PNLMEM.HorizontalScroll.Visible = False
+
+    Private Sub PNLMEM_Click(sender As Object, e As EventArgs) Handles PNLMEM.Click
+        'PNLMEM.AutoScroll = True
+        'PNLMEM.VerticalScroll.Visible = True Or PNLMEM.HorizontalScroll.Visible = False
+
     End Sub
 
-    Private Sub Guna2VScrollBar1_Scroll(sender As Object, e As ScrollEventArgs) Handles Guna2VScrollBar1.Scroll
+    Private Sub SCGC_Scroll(sender As Object, e As ScrollEventArgs)
+        PNLMEM.AutoScroll = True
+        PNLMEM.HorizontalScroll.Visible = False
+    End Sub
 
+    Private Sub SCGC_MouseEnter(sender As Object, e As EventArgs)
+        PNLMEM.AutoScroll = True
+        PNLMEM.HorizontalScroll.Visible = False Or PNLMEM.VerticalScroll.Visible = True
     End Sub
 End Class

@@ -106,11 +106,11 @@
 
 
     Private Sub BTNMEMBER_Click(sender As Object, e As EventArgs) Handles BTNMEMBER.Click
-        Dim ctrlgift As Integer
+        Dim ctrlmemapp As Integer
         For ctrlmem = 0 To 0
-            PNLMAINDOCKER.Controls.RemoveAt(ctrlgift)
+            PNLMAINDOCKER.Controls.RemoveAt(ctrlmemapp)
         Next
-        Dim D As New USRCRTLMEMBERGIFT()
+        Dim D As New USRCTRLMEMBERSHIPAPP()
         D.Parent = PNLMAINDOCKER
         D.Show()
         D.Dock = DockStyle.Fill
@@ -122,6 +122,28 @@
             PNLMAINDOCKER.Controls.RemoveAt(ctrlrice)
         Next
         Dim D As New USRCTRLRICELOANAPP()
+        D.Parent = PNLMAINDOCKER
+        D.Show()
+        D.Dock = DockStyle.Fill
+    End Sub
+
+    Private Sub BTNCHECK_Click(sender As Object, e As EventArgs) Handles BTNCHECK.Click
+        Dim ctrlgift As Integer
+        For ctrlrice = 0 To 0
+            PNLMAINDOCKER.Controls.RemoveAt(ctrlgift)
+        Next
+        Dim D As New USRCRTLMEMBERGIFT()
+        D.Parent = PNLMAINDOCKER
+        D.Show()
+        D.Dock = DockStyle.Fill
+    End Sub
+
+    Private Sub BTNCASH_Click(sender As Object, e As EventArgs) Handles BTNCASH.Click
+        Dim ctrlcash As Integer
+        For ctrlrice = 0 To 0
+            PNLMAINDOCKER.Controls.RemoveAt(ctrlcash)
+        Next
+        Dim D As New USRCRTLCashloanApp()
         D.Parent = PNLMAINDOCKER
         D.Show()
         D.Dock = DockStyle.Fill

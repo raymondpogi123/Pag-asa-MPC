@@ -159,6 +159,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="USRCRTLCashloanApp.Designer.vb">
+      <DependentUpon>USRCRTLCashloanApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USRCRTLCashloanApp.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="FRMLOGIN.Designer.vb">
       <DependentUpon>FRMLOGIN.vb</DependentUpon>
     </Compile>
@@ -226,6 +232,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="USRCRTLCashloanApp.resx">
+      <DependentUpon>USRCRTLCashloanApp.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FRMLOGIN.resx">
       <DependentUpon>FRMLOGIN.vb</DependentUpon>
     </EmbeddedResource>

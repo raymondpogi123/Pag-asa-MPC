@@ -22,36 +22,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(USRCTRLMEMBERSHIPAPP))
-        Dim StateProperties1 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties2 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties3 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties4 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties5 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties6 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties7 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties8 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties9 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties10 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties11 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties12 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties13 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties14 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties15 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties16 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties17 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties18 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties19 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties20 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties21 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties22 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties23 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties24 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties25 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties26 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties27 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties28 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties29 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties30 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties31 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
@@ -140,7 +111,87 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Dim StateProperties114 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties115 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties116 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties117 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties118 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties119 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties120 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties121 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties122 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties123 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties124 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties125 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties126 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties127 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties128 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties129 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties130 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties131 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties132 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties133 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties134 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties135 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties136 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties137 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties138 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties139 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties140 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties141 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties142 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties143 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties144 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties145 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties146 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties147 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties148 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties149 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties150 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties151 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties152 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties153 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties154 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties155 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties156 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties25 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties26 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties27 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties28 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties21 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties22 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties23 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties24 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties17 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties18 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties19 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties20 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties13 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties14 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties15 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties16 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties9 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties10 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties11 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties12 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties5 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties6 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties7 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties8 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties1 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties2 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties3 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties4 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Me.PNLMEMAPP = New Bunifu.UI.WinForms.BunifuPanel()
+        Me.BunifuLabel41 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel40 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel39 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel37 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel36 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel35 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel34 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel33 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel4 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuTextBox3 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox2 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox1 = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuLabel32 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuTextBox30 = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuLabel31 = New Bunifu.UI.WinForms.BunifuLabel()
@@ -173,7 +224,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel17 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.TXTSPOUSE = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuLabel16 = New Bunifu.UI.WinForms.BunifuLabel()
-        Me.DPBDAY = New Bunifu.UI.WinForms.BunifuDatePicker()
         Me.BunifuLabel12 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuLabel11 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuLabel10 = New Bunifu.UI.WinForms.BunifuLabel()
@@ -187,7 +237,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRELATIVE = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuLabel13 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuLabel9 = New Bunifu.UI.WinForms.BunifuLabel()
-        Me.TXTHEA = New Guna.UI2.WinForms.Guna2ComboBox()
         Me.BunifuLabel6 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuLabel5 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.LBLCS = New Bunifu.UI.WinForms.BunifuLabel()
@@ -205,10 +254,25 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTTIN = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.TXTNAME = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuLabel1 = New Bunifu.UI.WinForms.BunifuLabel()
-        Me.LBLDASHBOARD = New Bunifu.UI.WinForms.BunifuLabel()
-        Me.TooltipHEA = New Bunifu.UI.WinForms.BunifuToolTip(Me.components)
-        Me.DPISSUED = New Bunifu.UI.WinForms.BunifuDatePicker()
+        Me.BunifuTextBox4 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox5 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox6 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuLabel38 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel42 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel43 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuTextBox7 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox8 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuPictureBox1 = New Bunifu.UI.WinForms.BunifuPictureBox()
+        Me.BunifuTextBox9 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuTextBox10 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.BunifuLabel44 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuLabel45 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.BunifuPictureBox2 = New Bunifu.UI.WinForms.BunifuPictureBox()
+        Me.BunifuLabel46 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.Guna2Separator1 = New Guna.UI2.WinForms.Guna2Separator()
         Me.PNLMEMAPP.SuspendLayout()
+        CType(Me.BunifuPictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.BunifuPictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PNLMEMAPP
@@ -219,7 +283,34 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.PNLMEMAPP.BorderColor = System.Drawing.Color.Transparent
         Me.PNLMEMAPP.BorderRadius = 3
         Me.PNLMEMAPP.BorderThickness = 1
-        Me.PNLMEMAPP.Controls.Add(Me.DPISSUED)
+        Me.PNLMEMAPP.Controls.Add(Me.Guna2Separator1)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel46)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuPictureBox2)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel45)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel44)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox10)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox9)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuPictureBox1)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox8)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox7)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel43)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel42)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel38)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox6)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox5)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox4)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel41)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel40)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel39)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel37)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel36)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel35)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel34)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel33)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel4)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox3)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox2)
+        Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox1)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel32)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuTextBox30)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel31)
@@ -252,7 +343,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel17)
         Me.PNLMEMAPP.Controls.Add(Me.TXTSPOUSE)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel16)
-        Me.PNLMEMAPP.Controls.Add(Me.DPBDAY)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel12)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel11)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel10)
@@ -266,7 +356,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.PNLMEMAPP.Controls.Add(Me.TXTRELATIVE)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel13)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel9)
-        Me.PNLMEMAPP.Controls.Add(Me.TXTHEA)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel6)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel5)
         Me.PNLMEMAPP.Controls.Add(Me.LBLCS)
@@ -284,16 +373,383 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.PNLMEMAPP.Controls.Add(Me.TXTTIN)
         Me.PNLMEMAPP.Controls.Add(Me.TXTNAME)
         Me.PNLMEMAPP.Controls.Add(Me.BunifuLabel1)
-        Me.PNLMEMAPP.Controls.Add(Me.LBLDASHBOARD)
         Me.PNLMEMAPP.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PNLMEMAPP.Location = New System.Drawing.Point(0, 0)
         Me.PNLMEMAPP.Name = "PNLMEMAPP"
         Me.PNLMEMAPP.ShowBorders = True
         Me.PNLMEMAPP.Size = New System.Drawing.Size(941, 852)
         Me.PNLMEMAPP.TabIndex = 0
-        Me.TooltipHEA.SetToolTip(Me.PNLMEMAPP, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.PNLMEMAPP, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.PNLMEMAPP, "")
+        '
+        'BunifuLabel41
+        '
+        Me.BunifuLabel41.AllowParentOverrides = False
+        Me.BunifuLabel41.AutoEllipsis = False
+        Me.BunifuLabel41.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel41.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel41.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel41.Location = New System.Drawing.Point(636, 464)
+        Me.BunifuLabel41.Name = "BunifuLabel41"
+        Me.BunifuLabel41.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel41.Size = New System.Drawing.Size(118, 15)
+        Me.BunifuLabel41.TabIndex = 145
+        Me.BunifuLabel41.Text = "Siganture of Applicant"
+        Me.BunifuLabel41.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel41.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel40
+        '
+        Me.BunifuLabel40.AllowParentOverrides = False
+        Me.BunifuLabel40.AutoEllipsis = False
+        Me.BunifuLabel40.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel40.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel40.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel40.Location = New System.Drawing.Point(404, 354)
+        Me.BunifuLabel40.Name = "BunifuLabel40"
+        Me.BunifuLabel40.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel40.Size = New System.Drawing.Size(417, 15)
+        Me.BunifuLabel40.TabIndex = 144
+        Me.BunifuLabel40.Text = "equivalent to share/shares as initial paid up capital. Balance of my subscription" &
+    "."
+        Me.BunifuLabel40.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel40.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel39
+        '
+        Me.BunifuLabel39.AllowParentOverrides = False
+        Me.BunifuLabel39.AutoEllipsis = False
+        Me.BunifuLabel39.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel39.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel39.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel39.Location = New System.Drawing.Point(380, 320)
+        Me.BunifuLabel39.Name = "BunifuLabel39"
+        Me.BunifuLabel39.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel39.Size = New System.Drawing.Size(251, 15)
+        Me.BunifuLabel39.TabIndex = 143
+        Me.BunifuLabel39.Text = "share/shares (common stock ) with par value of "
+        Me.BunifuLabel39.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel39.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel37
+        '
+        Me.BunifuLabel37.AllowParentOverrides = False
+        Me.BunifuLabel37.AutoEllipsis = False
+        Me.BunifuLabel37.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel37.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel37.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel37.Location = New System.Drawing.Point(70, 320)
+        Me.BunifuLabel37.Name = "BunifuLabel37"
+        Me.BunifuLabel37.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel37.Size = New System.Drawing.Size(231, 15)
+        Me.BunifuLabel37.TabIndex = 141
+        Me.BunifuLabel37.Text = "I also hereby pledge to subscribe initially for "
+        Me.BunifuLabel37.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel37.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel36
+        '
+        Me.BunifuLabel36.AllowParentOverrides = False
+        Me.BunifuLabel36.AutoEllipsis = False
+        Me.BunifuLabel36.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel36.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel36.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel36.Location = New System.Drawing.Point(71, 279)
+        Me.BunifuLabel36.Name = "BunifuLabel36"
+        Me.BunifuLabel36.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel36.Size = New System.Drawing.Size(251, 15)
+        Me.BunifuLabel36.TabIndex = 140
+        Me.BunifuLabel36.Text = "I have paid the required membership fee of Php" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.BunifuLabel36.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel36.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel35
+        '
+        Me.BunifuLabel35.AllowParentOverrides = False
+        Me.BunifuLabel35.AutoEllipsis = False
+        Me.BunifuLabel35.AutoSize = False
+        Me.BunifuLabel35.CursorType = Nothing
+        Me.BunifuLabel35.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel35.Location = New System.Drawing.Point(72, 233)
+        Me.BunifuLabel35.Name = "BunifuLabel35"
+        Me.BunifuLabel35.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel35.Size = New System.Drawing.Size(783, 17)
+        Me.BunifuLabel35.TabIndex = 139
+        Me.BunifuLabel35.Text = "in its by laws and amendments thereof  or elsewhere, and decision of the general " &
+    "membership meetings as well as those of the boards of Directors  "
+        Me.BunifuLabel35.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel35.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel34
+        '
+        Me.BunifuLabel34.AllowParentOverrides = False
+        Me.BunifuLabel34.AutoEllipsis = False
+        Me.BunifuLabel34.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel34.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel34.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel34.Location = New System.Drawing.Point(540, 212)
+        Me.BunifuLabel34.Name = "BunifuLabel34"
+        Me.BunifuLabel34.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel34.Size = New System.Drawing.Size(333, 29)
+        Me.BunifuLabel34.TabIndex = 138
+        Me.BunifuLabel34.Text = "and agree to faithfully obey its rule and regulations as set down" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & " " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.BunifuLabel34.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel34.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel33
+        '
+        Me.BunifuLabel33.AllowParentOverrides = False
+        Me.BunifuLabel33.AutoEllipsis = False
+        Me.BunifuLabel33.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel33.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel33.Font = New System.Drawing.Font("Segoe UI Semibold", 9.75!, System.Drawing.FontStyle.Bold)
+        Me.BunifuLabel33.Location = New System.Drawing.Point(264, 212)
+        Me.BunifuLabel33.Name = "BunifuLabel33"
+        Me.BunifuLabel33.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel33.Size = New System.Drawing.Size(273, 17)
+        Me.BunifuLabel33.TabIndex = 137
+        Me.BunifuLabel33.Text = "MULTI  PURPOSE COOPERATIVE OF PAG-ASA."
+        Me.BunifuLabel33.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel33.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel4
+        '
+        Me.BunifuLabel4.AllowParentOverrides = False
+        Me.BunifuLabel4.AutoEllipsis = False
+        Me.BunifuLabel4.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel4.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel4.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel4.Location = New System.Drawing.Point(63, 212)
+        Me.BunifuLabel4.Name = "BunifuLabel4"
+        Me.BunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel4.Size = New System.Drawing.Size(195, 15)
+        Me.BunifuLabel4.TabIndex = 136
+        Me.BunifuLabel4.Text = "I hereby apply for membership in the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.BunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel4.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuTextBox3
+        '
+        Me.BunifuTextBox3.AcceptsReturn = False
+        Me.BunifuTextBox3.AcceptsTab = False
+        Me.BunifuTextBox3.AnimationSpeed = 200
+        Me.BunifuTextBox3.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox3.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox3.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox3.BackgroundImage = CType(resources.GetObject("BunifuTextBox3.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox3.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox3.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox3.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox3.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox3.BorderRadius = 1
+        Me.BunifuTextBox3.BorderThickness = 1
+        Me.BunifuTextBox3.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox3.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox3.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox3.DefaultText = ""
+        Me.BunifuTextBox3.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox3.HideSelection = True
+        Me.BunifuTextBox3.IconLeft = Nothing
+        Me.BunifuTextBox3.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox3.IconPadding = 10
+        Me.BunifuTextBox3.IconRight = Nothing
+        Me.BunifuTextBox3.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox3.Lines = New String(-1) {}
+        Me.BunifuTextBox3.Location = New System.Drawing.Point(431, 1330)
+        Me.BunifuTextBox3.MaxLength = 32767
+        Me.BunifuTextBox3.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox3.Modified = False
+        Me.BunifuTextBox3.Multiline = False
+        Me.BunifuTextBox3.Name = "BunifuTextBox3"
+        StateProperties29.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties29.FillColor = System.Drawing.Color.Empty
+        StateProperties29.ForeColor = System.Drawing.Color.Empty
+        StateProperties29.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox3.OnActiveState = StateProperties29
+        StateProperties30.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties30.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties30.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties30.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox3.OnDisabledState = StateProperties30
+        StateProperties31.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties31.FillColor = System.Drawing.Color.Empty
+        StateProperties31.ForeColor = System.Drawing.Color.Empty
+        StateProperties31.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox3.OnHoverState = StateProperties31
+        StateProperties32.BorderColor = System.Drawing.Color.Silver
+        StateProperties32.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties32.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties32.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox3.OnIdleState = StateProperties32
+        Me.BunifuTextBox3.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox3.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox3.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox3.PlaceholderText = ""
+        Me.BunifuTextBox3.ReadOnly = False
+        Me.BunifuTextBox3.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox3.SelectedText = ""
+        Me.BunifuTextBox3.SelectionLength = 0
+        Me.BunifuTextBox3.SelectionStart = 0
+        Me.BunifuTextBox3.ShortcutsEnabled = True
+        Me.BunifuTextBox3.Size = New System.Drawing.Size(164, 37)
+        Me.BunifuTextBox3.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox3.TabIndex = 135
+        Me.BunifuTextBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox3.TextMarginBottom = 0
+        Me.BunifuTextBox3.TextMarginLeft = 3
+        Me.BunifuTextBox3.TextMarginTop = 0
+        Me.BunifuTextBox3.TextPlaceholder = ""
+        Me.BunifuTextBox3.UseSystemPasswordChar = False
+        Me.BunifuTextBox3.WordWrap = True
+        '
+        'BunifuTextBox2
+        '
+        Me.BunifuTextBox2.AcceptsReturn = False
+        Me.BunifuTextBox2.AcceptsTab = False
+        Me.BunifuTextBox2.AnimationSpeed = 200
+        Me.BunifuTextBox2.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox2.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox2.BackgroundImage = CType(resources.GetObject("BunifuTextBox2.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox2.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox2.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox2.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox2.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox2.BorderRadius = 1
+        Me.BunifuTextBox2.BorderThickness = 1
+        Me.BunifuTextBox2.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox2.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox2.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox2.DefaultText = ""
+        Me.BunifuTextBox2.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox2.HideSelection = True
+        Me.BunifuTextBox2.IconLeft = Nothing
+        Me.BunifuTextBox2.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox2.IconPadding = 10
+        Me.BunifuTextBox2.IconRight = Nothing
+        Me.BunifuTextBox2.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox2.Lines = New String(-1) {}
+        Me.BunifuTextBox2.Location = New System.Drawing.Point(600, 806)
+        Me.BunifuTextBox2.MaxLength = 32767
+        Me.BunifuTextBox2.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox2.Modified = False
+        Me.BunifuTextBox2.Multiline = False
+        Me.BunifuTextBox2.Name = "BunifuTextBox2"
+        StateProperties33.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties33.FillColor = System.Drawing.Color.Empty
+        StateProperties33.ForeColor = System.Drawing.Color.Empty
+        StateProperties33.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox2.OnActiveState = StateProperties33
+        StateProperties34.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties34.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties34.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties34.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox2.OnDisabledState = StateProperties34
+        StateProperties35.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties35.FillColor = System.Drawing.Color.Empty
+        StateProperties35.ForeColor = System.Drawing.Color.Empty
+        StateProperties35.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox2.OnHoverState = StateProperties35
+        StateProperties36.BorderColor = System.Drawing.Color.Silver
+        StateProperties36.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties36.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties36.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox2.OnIdleState = StateProperties36
+        Me.BunifuTextBox2.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox2.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox2.PlaceholderText = ""
+        Me.BunifuTextBox2.ReadOnly = False
+        Me.BunifuTextBox2.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox2.SelectedText = ""
+        Me.BunifuTextBox2.SelectionLength = 0
+        Me.BunifuTextBox2.SelectionStart = 0
+        Me.BunifuTextBox2.ShortcutsEnabled = True
+        Me.BunifuTextBox2.Size = New System.Drawing.Size(280, 37)
+        Me.BunifuTextBox2.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox2.TabIndex = 134
+        Me.BunifuTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox2.TextMarginBottom = 0
+        Me.BunifuTextBox2.TextMarginLeft = 3
+        Me.BunifuTextBox2.TextMarginTop = 0
+        Me.BunifuTextBox2.TextPlaceholder = ""
+        Me.BunifuTextBox2.UseSystemPasswordChar = False
+        Me.BunifuTextBox2.WordWrap = True
+        '
+        'BunifuTextBox1
+        '
+        Me.BunifuTextBox1.AcceptsReturn = False
+        Me.BunifuTextBox1.AcceptsTab = False
+        Me.BunifuTextBox1.AnimationSpeed = 200
+        Me.BunifuTextBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox1.BackgroundImage = CType(resources.GetObject("BunifuTextBox1.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox1.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox1.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox1.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox1.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox1.BorderRadius = 1
+        Me.BunifuTextBox1.BorderThickness = 1
+        Me.BunifuTextBox1.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox1.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox1.DefaultText = ""
+        Me.BunifuTextBox1.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox1.HideSelection = True
+        Me.BunifuTextBox1.IconLeft = Nothing
+        Me.BunifuTextBox1.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox1.IconPadding = 10
+        Me.BunifuTextBox1.IconRight = Nothing
+        Me.BunifuTextBox1.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox1.Lines = New String(-1) {}
+        Me.BunifuTextBox1.Location = New System.Drawing.Point(608, 707)
+        Me.BunifuTextBox1.MaxLength = 32767
+        Me.BunifuTextBox1.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox1.Modified = False
+        Me.BunifuTextBox1.Multiline = False
+        Me.BunifuTextBox1.Name = "BunifuTextBox1"
+        StateProperties37.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties37.FillColor = System.Drawing.Color.Empty
+        StateProperties37.ForeColor = System.Drawing.Color.Empty
+        StateProperties37.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox1.OnActiveState = StateProperties37
+        StateProperties38.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties38.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties38.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties38.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox1.OnDisabledState = StateProperties38
+        StateProperties39.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties39.FillColor = System.Drawing.Color.Empty
+        StateProperties39.ForeColor = System.Drawing.Color.Empty
+        StateProperties39.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox1.OnHoverState = StateProperties39
+        StateProperties40.BorderColor = System.Drawing.Color.Silver
+        StateProperties40.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties40.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties40.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox1.OnIdleState = StateProperties40
+        Me.BunifuTextBox1.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox1.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox1.PlaceholderText = ""
+        Me.BunifuTextBox1.ReadOnly = False
+        Me.BunifuTextBox1.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox1.SelectedText = ""
+        Me.BunifuTextBox1.SelectionLength = 0
+        Me.BunifuTextBox1.SelectionStart = 0
+        Me.BunifuTextBox1.ShortcutsEnabled = True
+        Me.BunifuTextBox1.Size = New System.Drawing.Size(272, 37)
+        Me.BunifuTextBox1.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox1.TabIndex = 133
+        Me.BunifuTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox1.TextMarginBottom = 0
+        Me.BunifuTextBox1.TextMarginLeft = 3
+        Me.BunifuTextBox1.TextMarginTop = 0
+        Me.BunifuTextBox1.TextPlaceholder = ""
+        Me.BunifuTextBox1.UseSystemPasswordChar = False
+        Me.BunifuTextBox1.WordWrap = True
         '
         'BunifuLabel32
         '
@@ -302,7 +758,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel32.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel32.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel32.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.BunifuLabel32.Location = New System.Drawing.Point(67, 893)
+        Me.BunifuLabel32.Location = New System.Drawing.Point(71, 1384)
         Me.BunifuLabel32.Name = "BunifuLabel32"
         Me.BunifuLabel32.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel32.Size = New System.Drawing.Size(65, 21)
@@ -310,9 +766,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel32.Text = "CELL NO:"
         Me.BunifuLabel32.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel32.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel32, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel32, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel32, "")
         '
         'BunifuTextBox30
         '
@@ -342,32 +795,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuTextBox30.IconRight = Nothing
         Me.BunifuTextBox30.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.BunifuTextBox30.Lines = New String(-1) {}
-        Me.BunifuTextBox30.Location = New System.Drawing.Point(138, 886)
+        Me.BunifuTextBox30.Location = New System.Drawing.Point(142, 1377)
         Me.BunifuTextBox30.MaxLength = 32767
         Me.BunifuTextBox30.MinimumSize = New System.Drawing.Size(1, 1)
         Me.BunifuTextBox30.Modified = False
         Me.BunifuTextBox30.Multiline = False
         Me.BunifuTextBox30.Name = "BunifuTextBox30"
-        StateProperties1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties1.FillColor = System.Drawing.Color.Empty
-        StateProperties1.ForeColor = System.Drawing.Color.Empty
-        StateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox30.OnActiveState = StateProperties1
-        StateProperties2.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties2.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox30.OnDisabledState = StateProperties2
-        StateProperties3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties3.FillColor = System.Drawing.Color.Empty
-        StateProperties3.ForeColor = System.Drawing.Color.Empty
-        StateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox30.OnHoverState = StateProperties3
-        StateProperties4.BorderColor = System.Drawing.Color.Silver
-        StateProperties4.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox30.OnIdleState = StateProperties4
+        StateProperties41.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties41.FillColor = System.Drawing.Color.Empty
+        StateProperties41.ForeColor = System.Drawing.Color.Empty
+        StateProperties41.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox30.OnActiveState = StateProperties41
+        StateProperties42.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties42.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties42.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties42.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox30.OnDisabledState = StateProperties42
+        StateProperties43.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties43.FillColor = System.Drawing.Color.Empty
+        StateProperties43.ForeColor = System.Drawing.Color.Empty
+        StateProperties43.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox30.OnHoverState = StateProperties43
+        StateProperties44.BorderColor = System.Drawing.Color.Silver
+        StateProperties44.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties44.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties44.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox30.OnIdleState = StateProperties44
         Me.BunifuTextBox30.Padding = New System.Windows.Forms.Padding(3)
         Me.BunifuTextBox30.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.BunifuTextBox30.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -386,9 +839,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuTextBox30.TextMarginLeft = 3
         Me.BunifuTextBox30.TextMarginTop = 0
         Me.BunifuTextBox30.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.BunifuTextBox30, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuTextBox30, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuTextBox30, "")
         Me.BunifuTextBox30.UseSystemPasswordChar = False
         Me.BunifuTextBox30.WordWrap = True
         '
@@ -399,7 +849,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel31.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel31.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel31.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.BunifuLabel31.Location = New System.Drawing.Point(604, 850)
+        Me.BunifuLabel31.Location = New System.Drawing.Point(608, 1341)
         Me.BunifuLabel31.Name = "BunifuLabel31"
         Me.BunifuLabel31.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel31.Size = New System.Drawing.Size(101, 21)
@@ -407,9 +857,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel31.Text = "RES CERT. NO:"
         Me.BunifuLabel31.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel31.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel31, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel31, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel31, "")
         '
         'TXTISSUED
         '
@@ -439,32 +886,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTISSUED.IconRight = Nothing
         Me.TXTISSUED.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTISSUED.Lines = New String(-1) {}
-        Me.TXTISSUED.Location = New System.Drawing.Point(711, 839)
+        Me.TXTISSUED.Location = New System.Drawing.Point(715, 1330)
         Me.TXTISSUED.MaxLength = 32767
         Me.TXTISSUED.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTISSUED.Modified = False
         Me.TXTISSUED.Multiline = False
         Me.TXTISSUED.Name = "TXTISSUED"
-        StateProperties5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties5.FillColor = System.Drawing.Color.Empty
-        StateProperties5.ForeColor = System.Drawing.Color.Empty
-        StateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTISSUED.OnActiveState = StateProperties5
-        StateProperties6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties6.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTISSUED.OnDisabledState = StateProperties6
-        StateProperties7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties7.FillColor = System.Drawing.Color.Empty
-        StateProperties7.ForeColor = System.Drawing.Color.Empty
-        StateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTISSUED.OnHoverState = StateProperties7
-        StateProperties8.BorderColor = System.Drawing.Color.Silver
-        StateProperties8.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTISSUED.OnIdleState = StateProperties8
+        StateProperties45.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties45.FillColor = System.Drawing.Color.Empty
+        StateProperties45.ForeColor = System.Drawing.Color.Empty
+        StateProperties45.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTISSUED.OnActiveState = StateProperties45
+        StateProperties46.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties46.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties46.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties46.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTISSUED.OnDisabledState = StateProperties46
+        StateProperties47.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties47.FillColor = System.Drawing.Color.Empty
+        StateProperties47.ForeColor = System.Drawing.Color.Empty
+        StateProperties47.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTISSUED.OnHoverState = StateProperties47
+        StateProperties48.BorderColor = System.Drawing.Color.Silver
+        StateProperties48.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties48.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties48.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTISSUED.OnIdleState = StateProperties48
         Me.TXTISSUED.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTISSUED.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTISSUED.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -483,9 +930,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTISSUED.TextMarginLeft = 3
         Me.TXTISSUED.TextMarginTop = 0
         Me.TXTISSUED.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTISSUED, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTISSUED, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTISSUED, "")
         Me.TXTISSUED.UseSystemPasswordChar = False
         Me.TXTISSUED.WordWrap = True
         '
@@ -496,7 +940,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel30.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel30.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel30.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.BunifuLabel30.Location = New System.Drawing.Point(342, 850)
+        Me.BunifuLabel30.Location = New System.Drawing.Point(346, 1341)
         Me.BunifuLabel30.Name = "BunifuLabel30"
         Me.BunifuLabel30.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel30.Size = New System.Drawing.Size(77, 21)
@@ -504,9 +948,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel30.Text = "ISSUED AT:"
         Me.BunifuLabel30.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel30.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel30, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel30, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel30, "")
         '
         'BunifuLabel29
         '
@@ -515,7 +956,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel29.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel29.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel29.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.BunifuLabel29.Location = New System.Drawing.Point(39, 850)
+        Me.BunifuLabel29.Location = New System.Drawing.Point(43, 1341)
         Me.BunifuLabel29.Name = "BunifuLabel29"
         Me.BunifuLabel29.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel29.Size = New System.Drawing.Size(101, 21)
@@ -523,9 +964,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel29.Text = "RES CERT. NO:"
         Me.BunifuLabel29.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel29.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel29, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel29, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel29, "")
         '
         'TXTRESCERT
         '
@@ -555,32 +993,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRESCERT.IconRight = Nothing
         Me.TXTRESCERT.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTRESCERT.Lines = New String(-1) {}
-        Me.TXTRESCERT.Location = New System.Drawing.Point(143, 839)
+        Me.TXTRESCERT.Location = New System.Drawing.Point(147, 1330)
         Me.TXTRESCERT.MaxLength = 32767
         Me.TXTRESCERT.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTRESCERT.Modified = False
         Me.TXTRESCERT.Multiline = False
         Me.TXTRESCERT.Name = "TXTRESCERT"
-        StateProperties9.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties9.FillColor = System.Drawing.Color.Empty
-        StateProperties9.ForeColor = System.Drawing.Color.Empty
-        StateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRESCERT.OnActiveState = StateProperties9
-        StateProperties10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties10.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTRESCERT.OnDisabledState = StateProperties10
-        StateProperties11.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties11.FillColor = System.Drawing.Color.Empty
-        StateProperties11.ForeColor = System.Drawing.Color.Empty
-        StateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRESCERT.OnHoverState = StateProperties11
-        StateProperties12.BorderColor = System.Drawing.Color.Silver
-        StateProperties12.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties12.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRESCERT.OnIdleState = StateProperties12
+        StateProperties49.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties49.FillColor = System.Drawing.Color.Empty
+        StateProperties49.ForeColor = System.Drawing.Color.Empty
+        StateProperties49.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRESCERT.OnActiveState = StateProperties49
+        StateProperties50.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties50.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties50.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties50.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTRESCERT.OnDisabledState = StateProperties50
+        StateProperties51.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties51.FillColor = System.Drawing.Color.Empty
+        StateProperties51.ForeColor = System.Drawing.Color.Empty
+        StateProperties51.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRESCERT.OnHoverState = StateProperties51
+        StateProperties52.BorderColor = System.Drawing.Color.Silver
+        StateProperties52.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties52.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties52.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRESCERT.OnIdleState = StateProperties52
         Me.TXTRESCERT.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTRESCERT.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTRESCERT.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -599,9 +1037,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRESCERT.TextMarginLeft = 3
         Me.TXTRESCERT.TextMarginTop = 0
         Me.TXTRESCERT.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTRESCERT, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTRESCERT, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTRESCERT, "")
         Me.TXTRESCERT.UseSystemPasswordChar = False
         Me.TXTRESCERT.WordWrap = True
         '
@@ -612,7 +1047,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel28.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel28.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel28.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel28.Location = New System.Drawing.Point(547, 781)
+        Me.BunifuLabel28.Location = New System.Drawing.Point(551, 1272)
         Me.BunifuLabel28.Name = "BunifuLabel28"
         Me.BunifuLabel28.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel28.Size = New System.Drawing.Size(14, 17)
@@ -620,9 +1055,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel28.Text = "10"
         Me.BunifuLabel28.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel28.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel28, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel28, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel28, "")
         '
         'TXT10
         '
@@ -652,32 +1084,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT10.IconRight = Nothing
         Me.TXT10.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT10.Lines = New String(-1) {}
-        Me.TXT10.Location = New System.Drawing.Point(564, 770)
+        Me.TXT10.Location = New System.Drawing.Point(568, 1261)
         Me.TXT10.MaxLength = 32767
         Me.TXT10.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT10.Modified = False
         Me.TXT10.Multiline = False
         Me.TXT10.Name = "TXT10"
-        StateProperties13.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties13.FillColor = System.Drawing.Color.Empty
-        StateProperties13.ForeColor = System.Drawing.Color.Empty
-        StateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT10.OnActiveState = StateProperties13
-        StateProperties14.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties14.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties14.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT10.OnDisabledState = StateProperties14
-        StateProperties15.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties15.FillColor = System.Drawing.Color.Empty
-        StateProperties15.ForeColor = System.Drawing.Color.Empty
-        StateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT10.OnHoverState = StateProperties15
-        StateProperties16.BorderColor = System.Drawing.Color.Silver
-        StateProperties16.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties16.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT10.OnIdleState = StateProperties16
+        StateProperties53.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties53.FillColor = System.Drawing.Color.Empty
+        StateProperties53.ForeColor = System.Drawing.Color.Empty
+        StateProperties53.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT10.OnActiveState = StateProperties53
+        StateProperties54.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties54.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties54.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties54.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT10.OnDisabledState = StateProperties54
+        StateProperties55.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties55.FillColor = System.Drawing.Color.Empty
+        StateProperties55.ForeColor = System.Drawing.Color.Empty
+        StateProperties55.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT10.OnHoverState = StateProperties55
+        StateProperties56.BorderColor = System.Drawing.Color.Silver
+        StateProperties56.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties56.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties56.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT10.OnIdleState = StateProperties56
         Me.TXT10.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT10.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT10.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -696,9 +1128,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT10.TextMarginLeft = 3
         Me.TXT10.TextMarginTop = 0
         Me.TXT10.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT10, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT10, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT10, "")
         Me.TXT10.UseSystemPasswordChar = False
         Me.TXT10.WordWrap = True
         '
@@ -709,7 +1138,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel27.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel27.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel27.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel27.Location = New System.Drawing.Point(105, 781)
+        Me.BunifuLabel27.Location = New System.Drawing.Point(109, 1272)
         Me.BunifuLabel27.Name = "BunifuLabel27"
         Me.BunifuLabel27.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel27.Size = New System.Drawing.Size(7, 17)
@@ -717,9 +1146,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel27.Text = "5"
         Me.BunifuLabel27.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel27.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel27, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel27, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel27, "")
         '
         'TXT5
         '
@@ -749,32 +1175,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT5.IconRight = Nothing
         Me.TXT5.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT5.Lines = New String(-1) {}
-        Me.TXT5.Location = New System.Drawing.Point(119, 770)
+        Me.TXT5.Location = New System.Drawing.Point(123, 1261)
         Me.TXT5.MaxLength = 32767
         Me.TXT5.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT5.Modified = False
         Me.TXT5.Multiline = False
         Me.TXT5.Name = "TXT5"
-        StateProperties17.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties17.FillColor = System.Drawing.Color.Empty
-        StateProperties17.ForeColor = System.Drawing.Color.Empty
-        StateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT5.OnActiveState = StateProperties17
-        StateProperties18.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties18.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties18.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties18.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT5.OnDisabledState = StateProperties18
-        StateProperties19.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties19.FillColor = System.Drawing.Color.Empty
-        StateProperties19.ForeColor = System.Drawing.Color.Empty
-        StateProperties19.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT5.OnHoverState = StateProperties19
-        StateProperties20.BorderColor = System.Drawing.Color.Silver
-        StateProperties20.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties20.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties20.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT5.OnIdleState = StateProperties20
+        StateProperties57.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties57.FillColor = System.Drawing.Color.Empty
+        StateProperties57.ForeColor = System.Drawing.Color.Empty
+        StateProperties57.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT5.OnActiveState = StateProperties57
+        StateProperties58.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties58.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties58.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties58.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT5.OnDisabledState = StateProperties58
+        StateProperties59.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties59.FillColor = System.Drawing.Color.Empty
+        StateProperties59.ForeColor = System.Drawing.Color.Empty
+        StateProperties59.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT5.OnHoverState = StateProperties59
+        StateProperties60.BorderColor = System.Drawing.Color.Silver
+        StateProperties60.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties60.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties60.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT5.OnIdleState = StateProperties60
         Me.TXT5.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT5.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT5.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -793,9 +1219,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT5.TextMarginLeft = 3
         Me.TXT5.TextMarginTop = 0
         Me.TXT5.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT5, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT5, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT5, "")
         Me.TXT5.UseSystemPasswordChar = False
         Me.TXT5.WordWrap = True
         '
@@ -806,7 +1229,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel25.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel25.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel25.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel25.Location = New System.Drawing.Point(550, 727)
+        Me.BunifuLabel25.Location = New System.Drawing.Point(554, 1218)
         Me.BunifuLabel25.Name = "BunifuLabel25"
         Me.BunifuLabel25.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel25.Size = New System.Drawing.Size(7, 17)
@@ -814,9 +1237,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel25.Text = "9"
         Me.BunifuLabel25.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel25.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel25, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel25, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel25, "")
         '
         'TXT9
         '
@@ -846,32 +1266,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT9.IconRight = Nothing
         Me.TXT9.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT9.Lines = New String(-1) {}
-        Me.TXT9.Location = New System.Drawing.Point(566, 724)
+        Me.TXT9.Location = New System.Drawing.Point(570, 1215)
         Me.TXT9.MaxLength = 32767
         Me.TXT9.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT9.Modified = False
         Me.TXT9.Multiline = False
         Me.TXT9.Name = "TXT9"
-        StateProperties21.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties21.FillColor = System.Drawing.Color.Empty
-        StateProperties21.ForeColor = System.Drawing.Color.Empty
-        StateProperties21.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT9.OnActiveState = StateProperties21
-        StateProperties22.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties22.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties22.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties22.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT9.OnDisabledState = StateProperties22
-        StateProperties23.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties23.FillColor = System.Drawing.Color.Empty
-        StateProperties23.ForeColor = System.Drawing.Color.Empty
-        StateProperties23.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT9.OnHoverState = StateProperties23
-        StateProperties24.BorderColor = System.Drawing.Color.Silver
-        StateProperties24.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties24.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT9.OnIdleState = StateProperties24
+        StateProperties61.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties61.FillColor = System.Drawing.Color.Empty
+        StateProperties61.ForeColor = System.Drawing.Color.Empty
+        StateProperties61.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT9.OnActiveState = StateProperties61
+        StateProperties62.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties62.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties62.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties62.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT9.OnDisabledState = StateProperties62
+        StateProperties63.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties63.FillColor = System.Drawing.Color.Empty
+        StateProperties63.ForeColor = System.Drawing.Color.Empty
+        StateProperties63.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT9.OnHoverState = StateProperties63
+        StateProperties64.BorderColor = System.Drawing.Color.Silver
+        StateProperties64.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties64.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties64.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT9.OnIdleState = StateProperties64
         Me.TXT9.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT9.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT9.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -890,9 +1310,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT9.TextMarginLeft = 3
         Me.TXT9.TextMarginTop = 0
         Me.TXT9.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT9, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT9, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT9, "")
         Me.TXT9.UseSystemPasswordChar = False
         Me.TXT9.WordWrap = True
         '
@@ -903,7 +1320,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel26.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel26.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel26.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel26.Location = New System.Drawing.Point(550, 685)
+        Me.BunifuLabel26.Location = New System.Drawing.Point(554, 1176)
         Me.BunifuLabel26.Name = "BunifuLabel26"
         Me.BunifuLabel26.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel26.Size = New System.Drawing.Size(7, 17)
@@ -911,9 +1328,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel26.Text = "8"
         Me.BunifuLabel26.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel26.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel26, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel26, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel26, "")
         '
         'TXT8
         '
@@ -943,32 +1357,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT8.IconRight = Nothing
         Me.TXT8.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT8.Lines = New String(-1) {}
-        Me.TXT8.Location = New System.Drawing.Point(566, 679)
+        Me.TXT8.Location = New System.Drawing.Point(570, 1170)
         Me.TXT8.MaxLength = 32767
         Me.TXT8.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT8.Modified = False
         Me.TXT8.Multiline = False
         Me.TXT8.Name = "TXT8"
-        StateProperties25.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties25.FillColor = System.Drawing.Color.Empty
-        StateProperties25.ForeColor = System.Drawing.Color.Empty
-        StateProperties25.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT8.OnActiveState = StateProperties25
-        StateProperties26.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties26.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties26.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties26.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT8.OnDisabledState = StateProperties26
-        StateProperties27.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties27.FillColor = System.Drawing.Color.Empty
-        StateProperties27.ForeColor = System.Drawing.Color.Empty
-        StateProperties27.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT8.OnHoverState = StateProperties27
-        StateProperties28.BorderColor = System.Drawing.Color.Silver
-        StateProperties28.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties28.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties28.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT8.OnIdleState = StateProperties28
+        StateProperties65.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties65.FillColor = System.Drawing.Color.Empty
+        StateProperties65.ForeColor = System.Drawing.Color.Empty
+        StateProperties65.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT8.OnActiveState = StateProperties65
+        StateProperties66.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties66.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties66.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties66.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT8.OnDisabledState = StateProperties66
+        StateProperties67.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties67.FillColor = System.Drawing.Color.Empty
+        StateProperties67.ForeColor = System.Drawing.Color.Empty
+        StateProperties67.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT8.OnHoverState = StateProperties67
+        StateProperties68.BorderColor = System.Drawing.Color.Silver
+        StateProperties68.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties68.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties68.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT8.OnIdleState = StateProperties68
         Me.TXT8.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT8.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT8.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -987,9 +1401,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT8.TextMarginLeft = 3
         Me.TXT8.TextMarginTop = 0
         Me.TXT8.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT8, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT8, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT8, "")
         Me.TXT8.UseSystemPasswordChar = False
         Me.TXT8.WordWrap = True
         '
@@ -1000,7 +1411,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel23.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel23.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel23.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel23.Location = New System.Drawing.Point(105, 727)
+        Me.BunifuLabel23.Location = New System.Drawing.Point(109, 1218)
         Me.BunifuLabel23.Name = "BunifuLabel23"
         Me.BunifuLabel23.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel23.Size = New System.Drawing.Size(7, 17)
@@ -1008,9 +1419,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel23.Text = "4"
         Me.BunifuLabel23.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel23.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel23, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel23, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel23, "")
         '
         'TXT4
         '
@@ -1040,32 +1448,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT4.IconRight = Nothing
         Me.TXT4.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT4.Lines = New String(-1) {}
-        Me.TXT4.Location = New System.Drawing.Point(119, 725)
+        Me.TXT4.Location = New System.Drawing.Point(123, 1216)
         Me.TXT4.MaxLength = 32767
         Me.TXT4.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT4.Modified = False
         Me.TXT4.Multiline = False
         Me.TXT4.Name = "TXT4"
-        StateProperties29.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties29.FillColor = System.Drawing.Color.Empty
-        StateProperties29.ForeColor = System.Drawing.Color.Empty
-        StateProperties29.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT4.OnActiveState = StateProperties29
-        StateProperties30.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties30.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties30.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties30.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT4.OnDisabledState = StateProperties30
-        StateProperties31.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties31.FillColor = System.Drawing.Color.Empty
-        StateProperties31.ForeColor = System.Drawing.Color.Empty
-        StateProperties31.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT4.OnHoverState = StateProperties31
-        StateProperties32.BorderColor = System.Drawing.Color.Silver
-        StateProperties32.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties32.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties32.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT4.OnIdleState = StateProperties32
+        StateProperties69.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties69.FillColor = System.Drawing.Color.Empty
+        StateProperties69.ForeColor = System.Drawing.Color.Empty
+        StateProperties69.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT4.OnActiveState = StateProperties69
+        StateProperties70.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties70.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties70.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties70.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT4.OnDisabledState = StateProperties70
+        StateProperties71.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties71.FillColor = System.Drawing.Color.Empty
+        StateProperties71.ForeColor = System.Drawing.Color.Empty
+        StateProperties71.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT4.OnHoverState = StateProperties71
+        StateProperties72.BorderColor = System.Drawing.Color.Silver
+        StateProperties72.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties72.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties72.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT4.OnIdleState = StateProperties72
         Me.TXT4.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT4.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT4.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1084,9 +1492,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT4.TextMarginLeft = 3
         Me.TXT4.TextMarginTop = 0
         Me.TXT4.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT4, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT4, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT4, "")
         Me.TXT4.UseSystemPasswordChar = False
         Me.TXT4.WordWrap = True
         '
@@ -1097,7 +1502,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel24.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel24.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel24.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel24.Location = New System.Drawing.Point(105, 685)
+        Me.BunifuLabel24.Location = New System.Drawing.Point(109, 1176)
         Me.BunifuLabel24.Name = "BunifuLabel24"
         Me.BunifuLabel24.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel24.Size = New System.Drawing.Size(7, 17)
@@ -1105,9 +1510,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel24.Text = "3"
         Me.BunifuLabel24.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel24.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel24, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel24, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel24, "")
         '
         'TXT3
         '
@@ -1137,32 +1539,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT3.IconRight = Nothing
         Me.TXT3.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT3.Lines = New String(-1) {}
-        Me.TXT3.Location = New System.Drawing.Point(118, 680)
+        Me.TXT3.Location = New System.Drawing.Point(122, 1171)
         Me.TXT3.MaxLength = 32767
         Me.TXT3.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT3.Modified = False
         Me.TXT3.Multiline = False
         Me.TXT3.Name = "TXT3"
-        StateProperties33.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties33.FillColor = System.Drawing.Color.Empty
-        StateProperties33.ForeColor = System.Drawing.Color.Empty
-        StateProperties33.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT3.OnActiveState = StateProperties33
-        StateProperties34.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties34.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties34.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties34.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT3.OnDisabledState = StateProperties34
-        StateProperties35.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties35.FillColor = System.Drawing.Color.Empty
-        StateProperties35.ForeColor = System.Drawing.Color.Empty
-        StateProperties35.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT3.OnHoverState = StateProperties35
-        StateProperties36.BorderColor = System.Drawing.Color.Silver
-        StateProperties36.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties36.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties36.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT3.OnIdleState = StateProperties36
+        StateProperties73.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties73.FillColor = System.Drawing.Color.Empty
+        StateProperties73.ForeColor = System.Drawing.Color.Empty
+        StateProperties73.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT3.OnActiveState = StateProperties73
+        StateProperties74.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties74.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties74.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties74.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT3.OnDisabledState = StateProperties74
+        StateProperties75.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties75.FillColor = System.Drawing.Color.Empty
+        StateProperties75.ForeColor = System.Drawing.Color.Empty
+        StateProperties75.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT3.OnHoverState = StateProperties75
+        StateProperties76.BorderColor = System.Drawing.Color.Silver
+        StateProperties76.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties76.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties76.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT3.OnIdleState = StateProperties76
         Me.TXT3.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT3.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT3.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1181,9 +1583,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT3.TextMarginLeft = 3
         Me.TXT3.TextMarginTop = 0
         Me.TXT3.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT3, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT3, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT3, "")
         Me.TXT3.UseSystemPasswordChar = False
         Me.TXT3.WordWrap = True
         '
@@ -1194,7 +1593,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel21.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel21.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel21.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel21.Location = New System.Drawing.Point(550, 642)
+        Me.BunifuLabel21.Location = New System.Drawing.Point(554, 1133)
         Me.BunifuLabel21.Name = "BunifuLabel21"
         Me.BunifuLabel21.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel21.Size = New System.Drawing.Size(7, 17)
@@ -1202,9 +1601,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel21.Text = "7"
         Me.BunifuLabel21.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel21.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel21, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel21, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel21, "")
         '
         'TXT7
         '
@@ -1234,32 +1630,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT7.IconRight = Nothing
         Me.TXT7.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT7.Lines = New String(-1) {}
-        Me.TXT7.Location = New System.Drawing.Point(564, 634)
+        Me.TXT7.Location = New System.Drawing.Point(568, 1125)
         Me.TXT7.MaxLength = 32767
         Me.TXT7.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT7.Modified = False
         Me.TXT7.Multiline = False
         Me.TXT7.Name = "TXT7"
-        StateProperties37.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties37.FillColor = System.Drawing.Color.Empty
-        StateProperties37.ForeColor = System.Drawing.Color.Empty
-        StateProperties37.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT7.OnActiveState = StateProperties37
-        StateProperties38.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties38.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties38.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties38.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT7.OnDisabledState = StateProperties38
-        StateProperties39.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties39.FillColor = System.Drawing.Color.Empty
-        StateProperties39.ForeColor = System.Drawing.Color.Empty
-        StateProperties39.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT7.OnHoverState = StateProperties39
-        StateProperties40.BorderColor = System.Drawing.Color.Silver
-        StateProperties40.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties40.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties40.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT7.OnIdleState = StateProperties40
+        StateProperties77.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties77.FillColor = System.Drawing.Color.Empty
+        StateProperties77.ForeColor = System.Drawing.Color.Empty
+        StateProperties77.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT7.OnActiveState = StateProperties77
+        StateProperties78.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties78.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties78.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties78.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT7.OnDisabledState = StateProperties78
+        StateProperties79.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties79.FillColor = System.Drawing.Color.Empty
+        StateProperties79.ForeColor = System.Drawing.Color.Empty
+        StateProperties79.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT7.OnHoverState = StateProperties79
+        StateProperties80.BorderColor = System.Drawing.Color.Silver
+        StateProperties80.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties80.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties80.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT7.OnIdleState = StateProperties80
         Me.TXT7.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT7.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT7.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1278,9 +1674,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT7.TextMarginLeft = 3
         Me.TXT7.TextMarginTop = 0
         Me.TXT7.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT7, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT7, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT7, "")
         Me.TXT7.UseSystemPasswordChar = False
         Me.TXT7.WordWrap = True
         '
@@ -1291,7 +1684,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel22.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel22.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel22.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel22.Location = New System.Drawing.Point(550, 600)
+        Me.BunifuLabel22.Location = New System.Drawing.Point(554, 1091)
         Me.BunifuLabel22.Name = "BunifuLabel22"
         Me.BunifuLabel22.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel22.Size = New System.Drawing.Size(7, 17)
@@ -1299,9 +1692,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel22.Text = "6"
         Me.BunifuLabel22.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel22.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel22, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel22, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel22, "")
         '
         'TXT6
         '
@@ -1331,32 +1721,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT6.IconRight = Nothing
         Me.TXT6.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT6.Lines = New String(-1) {}
-        Me.TXT6.Location = New System.Drawing.Point(564, 589)
+        Me.TXT6.Location = New System.Drawing.Point(568, 1080)
         Me.TXT6.MaxLength = 32767
         Me.TXT6.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT6.Modified = False
         Me.TXT6.Multiline = False
         Me.TXT6.Name = "TXT6"
-        StateProperties41.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties41.FillColor = System.Drawing.Color.Empty
-        StateProperties41.ForeColor = System.Drawing.Color.Empty
-        StateProperties41.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT6.OnActiveState = StateProperties41
-        StateProperties42.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties42.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties42.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties42.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT6.OnDisabledState = StateProperties42
-        StateProperties43.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties43.FillColor = System.Drawing.Color.Empty
-        StateProperties43.ForeColor = System.Drawing.Color.Empty
-        StateProperties43.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT6.OnHoverState = StateProperties43
-        StateProperties44.BorderColor = System.Drawing.Color.Silver
-        StateProperties44.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties44.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties44.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT6.OnIdleState = StateProperties44
+        StateProperties81.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties81.FillColor = System.Drawing.Color.Empty
+        StateProperties81.ForeColor = System.Drawing.Color.Empty
+        StateProperties81.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT6.OnActiveState = StateProperties81
+        StateProperties82.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties82.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties82.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties82.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT6.OnDisabledState = StateProperties82
+        StateProperties83.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties83.FillColor = System.Drawing.Color.Empty
+        StateProperties83.ForeColor = System.Drawing.Color.Empty
+        StateProperties83.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT6.OnHoverState = StateProperties83
+        StateProperties84.BorderColor = System.Drawing.Color.Silver
+        StateProperties84.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties84.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties84.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT6.OnIdleState = StateProperties84
         Me.TXT6.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT6.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT6.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1375,9 +1765,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT6.TextMarginLeft = 3
         Me.TXT6.TextMarginTop = 0
         Me.TXT6.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT6, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT6, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT6, "")
         Me.TXT6.UseSystemPasswordChar = False
         Me.TXT6.WordWrap = True
         '
@@ -1388,7 +1775,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel20.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel20.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel20.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel20.Location = New System.Drawing.Point(105, 642)
+        Me.BunifuLabel20.Location = New System.Drawing.Point(109, 1133)
         Me.BunifuLabel20.Name = "BunifuLabel20"
         Me.BunifuLabel20.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel20.Size = New System.Drawing.Size(7, 17)
@@ -1396,9 +1783,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel20.Text = "2"
         Me.BunifuLabel20.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel20.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel20, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel20, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel20, "")
         '
         'TXT2
         '
@@ -1428,32 +1812,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT2.IconRight = Nothing
         Me.TXT2.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT2.Lines = New String(-1) {}
-        Me.TXT2.Location = New System.Drawing.Point(119, 635)
+        Me.TXT2.Location = New System.Drawing.Point(123, 1126)
         Me.TXT2.MaxLength = 32767
         Me.TXT2.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT2.Modified = False
         Me.TXT2.Multiline = False
         Me.TXT2.Name = "TXT2"
-        StateProperties45.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties45.FillColor = System.Drawing.Color.Empty
-        StateProperties45.ForeColor = System.Drawing.Color.Empty
-        StateProperties45.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT2.OnActiveState = StateProperties45
-        StateProperties46.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties46.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties46.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties46.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT2.OnDisabledState = StateProperties46
-        StateProperties47.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties47.FillColor = System.Drawing.Color.Empty
-        StateProperties47.ForeColor = System.Drawing.Color.Empty
-        StateProperties47.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT2.OnHoverState = StateProperties47
-        StateProperties48.BorderColor = System.Drawing.Color.Silver
-        StateProperties48.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties48.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties48.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT2.OnIdleState = StateProperties48
+        StateProperties85.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties85.FillColor = System.Drawing.Color.Empty
+        StateProperties85.ForeColor = System.Drawing.Color.Empty
+        StateProperties85.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT2.OnActiveState = StateProperties85
+        StateProperties86.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties86.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties86.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties86.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT2.OnDisabledState = StateProperties86
+        StateProperties87.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties87.FillColor = System.Drawing.Color.Empty
+        StateProperties87.ForeColor = System.Drawing.Color.Empty
+        StateProperties87.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT2.OnHoverState = StateProperties87
+        StateProperties88.BorderColor = System.Drawing.Color.Silver
+        StateProperties88.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties88.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties88.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT2.OnIdleState = StateProperties88
         Me.TXT2.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT2.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1472,9 +1856,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT2.TextMarginLeft = 3
         Me.TXT2.TextMarginTop = 0
         Me.TXT2.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT2, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT2, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT2, "")
         Me.TXT2.UseSystemPasswordChar = False
         Me.TXT2.WordWrap = True
         '
@@ -1485,7 +1866,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel19.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel19.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel19.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel19.Location = New System.Drawing.Point(105, 600)
+        Me.BunifuLabel19.Location = New System.Drawing.Point(109, 1091)
         Me.BunifuLabel19.Name = "BunifuLabel19"
         Me.BunifuLabel19.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel19.Size = New System.Drawing.Size(7, 17)
@@ -1493,9 +1874,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel19.Text = "1"
         Me.BunifuLabel19.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel19.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel19, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel19, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel19, "")
         '
         'TXT1
         '
@@ -1525,32 +1903,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT1.IconRight = Nothing
         Me.TXT1.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXT1.Lines = New String(-1) {}
-        Me.TXT1.Location = New System.Drawing.Point(118, 590)
+        Me.TXT1.Location = New System.Drawing.Point(122, 1081)
         Me.TXT1.MaxLength = 32767
         Me.TXT1.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXT1.Modified = False
         Me.TXT1.Multiline = False
         Me.TXT1.Name = "TXT1"
-        StateProperties49.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties49.FillColor = System.Drawing.Color.Empty
-        StateProperties49.ForeColor = System.Drawing.Color.Empty
-        StateProperties49.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT1.OnActiveState = StateProperties49
-        StateProperties50.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties50.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties50.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties50.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXT1.OnDisabledState = StateProperties50
-        StateProperties51.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties51.FillColor = System.Drawing.Color.Empty
-        StateProperties51.ForeColor = System.Drawing.Color.Empty
-        StateProperties51.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT1.OnHoverState = StateProperties51
-        StateProperties52.BorderColor = System.Drawing.Color.Silver
-        StateProperties52.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties52.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties52.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXT1.OnIdleState = StateProperties52
+        StateProperties89.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties89.FillColor = System.Drawing.Color.Empty
+        StateProperties89.ForeColor = System.Drawing.Color.Empty
+        StateProperties89.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT1.OnActiveState = StateProperties89
+        StateProperties90.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties90.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties90.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties90.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXT1.OnDisabledState = StateProperties90
+        StateProperties91.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties91.FillColor = System.Drawing.Color.Empty
+        StateProperties91.ForeColor = System.Drawing.Color.Empty
+        StateProperties91.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT1.OnHoverState = StateProperties91
+        StateProperties92.BorderColor = System.Drawing.Color.Silver
+        StateProperties92.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties92.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties92.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXT1.OnIdleState = StateProperties92
         Me.TXT1.Padding = New System.Windows.Forms.Padding(3)
         Me.TXT1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXT1.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1569,9 +1947,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXT1.TextMarginLeft = 3
         Me.TXT1.TextMarginTop = 0
         Me.TXT1.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXT1, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXT1, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXT1, "")
         Me.TXT1.UseSystemPasswordChar = False
         Me.TXT1.WordWrap = True
         '
@@ -1582,7 +1957,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel18.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel18.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel18.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel18.Location = New System.Drawing.Point(449, 548)
+        Me.BunifuLabel18.Location = New System.Drawing.Point(453, 1039)
         Me.BunifuLabel18.Name = "BunifuLabel18"
         Me.BunifuLabel18.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel18.Size = New System.Drawing.Size(138, 17)
@@ -1590,9 +1965,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel18.Text = "Number of Dependents"
         Me.BunifuLabel18.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel18.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel18, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel18, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel18, "")
         '
         'TXTDEPENDENTS
         '
@@ -1622,32 +1994,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTDEPENDENTS.IconRight = Nothing
         Me.TXTDEPENDENTS.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTDEPENDENTS.Lines = New String(-1) {}
-        Me.TXTDEPENDENTS.Location = New System.Drawing.Point(596, 537)
+        Me.TXTDEPENDENTS.Location = New System.Drawing.Point(600, 1028)
         Me.TXTDEPENDENTS.MaxLength = 32767
         Me.TXTDEPENDENTS.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTDEPENDENTS.Modified = False
         Me.TXTDEPENDENTS.Multiline = False
         Me.TXTDEPENDENTS.Name = "TXTDEPENDENTS"
-        StateProperties53.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties53.FillColor = System.Drawing.Color.Empty
-        StateProperties53.ForeColor = System.Drawing.Color.Empty
-        StateProperties53.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTDEPENDENTS.OnActiveState = StateProperties53
-        StateProperties54.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties54.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties54.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties54.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTDEPENDENTS.OnDisabledState = StateProperties54
-        StateProperties55.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties55.FillColor = System.Drawing.Color.Empty
-        StateProperties55.ForeColor = System.Drawing.Color.Empty
-        StateProperties55.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTDEPENDENTS.OnHoverState = StateProperties55
-        StateProperties56.BorderColor = System.Drawing.Color.Silver
-        StateProperties56.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties56.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties56.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTDEPENDENTS.OnIdleState = StateProperties56
+        StateProperties93.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties93.FillColor = System.Drawing.Color.Empty
+        StateProperties93.ForeColor = System.Drawing.Color.Empty
+        StateProperties93.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTDEPENDENTS.OnActiveState = StateProperties93
+        StateProperties94.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties94.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties94.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties94.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTDEPENDENTS.OnDisabledState = StateProperties94
+        StateProperties95.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties95.FillColor = System.Drawing.Color.Empty
+        StateProperties95.ForeColor = System.Drawing.Color.Empty
+        StateProperties95.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTDEPENDENTS.OnHoverState = StateProperties95
+        StateProperties96.BorderColor = System.Drawing.Color.Silver
+        StateProperties96.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties96.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties96.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTDEPENDENTS.OnIdleState = StateProperties96
         Me.TXTDEPENDENTS.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTDEPENDENTS.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTDEPENDENTS.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1666,9 +2038,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTDEPENDENTS.TextMarginLeft = 3
         Me.TXTDEPENDENTS.TextMarginTop = 0
         Me.TXTDEPENDENTS.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTDEPENDENTS, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTDEPENDENTS, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTDEPENDENTS, "")
         Me.TXTDEPENDENTS.UseSystemPasswordChar = False
         Me.TXTDEPENDENTS.WordWrap = True
         '
@@ -1679,7 +2048,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel17.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel17.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel17.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel17.Location = New System.Drawing.Point(39, 548)
+        Me.BunifuLabel17.Location = New System.Drawing.Point(43, 1039)
         Me.BunifuLabel17.Name = "BunifuLabel17"
         Me.BunifuLabel17.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel17.Size = New System.Drawing.Size(100, 17)
@@ -1687,9 +2056,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel17.Text = "Name Of Spouse"
         Me.BunifuLabel17.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel17.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel17, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel17, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel17, "")
         '
         'TXTSPOUSE
         '
@@ -1719,32 +2085,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSPOUSE.IconRight = Nothing
         Me.TXTSPOUSE.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTSPOUSE.Lines = New String(-1) {}
-        Me.TXTSPOUSE.Location = New System.Drawing.Point(143, 537)
+        Me.TXTSPOUSE.Location = New System.Drawing.Point(147, 1028)
         Me.TXTSPOUSE.MaxLength = 32767
         Me.TXTSPOUSE.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTSPOUSE.Modified = False
         Me.TXTSPOUSE.Multiline = False
         Me.TXTSPOUSE.Name = "TXTSPOUSE"
-        StateProperties57.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties57.FillColor = System.Drawing.Color.Empty
-        StateProperties57.ForeColor = System.Drawing.Color.Empty
-        StateProperties57.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSPOUSE.OnActiveState = StateProperties57
-        StateProperties58.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties58.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties58.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties58.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTSPOUSE.OnDisabledState = StateProperties58
-        StateProperties59.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties59.FillColor = System.Drawing.Color.Empty
-        StateProperties59.ForeColor = System.Drawing.Color.Empty
-        StateProperties59.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSPOUSE.OnHoverState = StateProperties59
-        StateProperties60.BorderColor = System.Drawing.Color.Silver
-        StateProperties60.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties60.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties60.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSPOUSE.OnIdleState = StateProperties60
+        StateProperties97.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties97.FillColor = System.Drawing.Color.Empty
+        StateProperties97.ForeColor = System.Drawing.Color.Empty
+        StateProperties97.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSPOUSE.OnActiveState = StateProperties97
+        StateProperties98.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties98.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties98.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties98.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTSPOUSE.OnDisabledState = StateProperties98
+        StateProperties99.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties99.FillColor = System.Drawing.Color.Empty
+        StateProperties99.ForeColor = System.Drawing.Color.Empty
+        StateProperties99.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSPOUSE.OnHoverState = StateProperties99
+        StateProperties100.BorderColor = System.Drawing.Color.Silver
+        StateProperties100.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties100.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties100.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSPOUSE.OnIdleState = StateProperties100
         Me.TXTSPOUSE.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTSPOUSE.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTSPOUSE.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1763,9 +2129,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSPOUSE.TextMarginLeft = 3
         Me.TXTSPOUSE.TextMarginTop = 0
         Me.TXTSPOUSE.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTSPOUSE, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTSPOUSE, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTSPOUSE, "")
         Me.TXTSPOUSE.UseSystemPasswordChar = False
         Me.TXTSPOUSE.WordWrap = True
         '
@@ -1776,7 +2139,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel16.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel16.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel16.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel16.Location = New System.Drawing.Point(39, 505)
+        Me.BunifuLabel16.Location = New System.Drawing.Point(43, 996)
         Me.BunifuLabel16.Name = "BunifuLabel16"
         Me.BunifuLabel16.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel16.Size = New System.Drawing.Size(149, 17)
@@ -1784,37 +2147,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel16.Text = "Social Religious Affiliation"
         Me.BunifuLabel16.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel16.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel16, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel16, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel16, "")
-        '
-        'DPBDAY
-        '
-        Me.DPBDAY.BackColor = System.Drawing.Color.Transparent
-        Me.DPBDAY.BorderRadius = 1
-        Me.DPBDAY.Color = System.Drawing.Color.Silver
-        Me.DPBDAY.DateBorderThickness = Bunifu.UI.WinForms.BunifuDatePicker.BorderThickness.Thin
-        Me.DPBDAY.DateTextAlign = Bunifu.UI.WinForms.BunifuDatePicker.TextAlign.Left
-        Me.DPBDAY.DisabledColor = System.Drawing.Color.Gray
-        Me.DPBDAY.DisplayWeekNumbers = False
-        Me.DPBDAY.DPHeight = 0
-        Me.DPBDAY.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
-        Me.DPBDAY.FillDatePicker = False
-        Me.DPBDAY.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DPBDAY.ForeColor = System.Drawing.Color.Black
-        Me.DPBDAY.Icon = CType(resources.GetObject("DPBDAY.Icon"), System.Drawing.Image)
-        Me.DPBDAY.IconColor = System.Drawing.Color.Gray
-        Me.DPBDAY.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right
-        Me.DPBDAY.LeftTextMargin = 5
-        Me.DPBDAY.Location = New System.Drawing.Point(596, 218)
-        Me.DPBDAY.MinimumSize = New System.Drawing.Size(4, 32)
-        Me.DPBDAY.Name = "DPBDAY"
-        Me.DPBDAY.Size = New System.Drawing.Size(280, 32)
-        Me.DPBDAY.TabIndex = 76
-        Me.TooltipHEA.SetToolTip(Me.DPBDAY, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.DPBDAY, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.DPBDAY, "")
-        Me.DPBDAY.Value = New Date(2023, 3, 11, 21, 3, 0, 0)
         '
         'BunifuLabel12
         '
@@ -1823,7 +2155,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel12.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel12.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel12.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel12.Location = New System.Drawing.Point(681, 172)
+        Me.BunifuLabel12.Location = New System.Drawing.Point(685, 667)
         Me.BunifuLabel12.Name = "BunifuLabel12"
         Me.BunifuLabel12.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel12.Size = New System.Drawing.Size(43, 17)
@@ -1831,9 +2163,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel12.Text = "Gender"
         Me.BunifuLabel12.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel12.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel12, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel12, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel12, "")
         '
         'BunifuLabel11
         '
@@ -1842,7 +2171,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel11.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel11.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel11.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel11.Location = New System.Drawing.Point(564, 172)
+        Me.BunifuLabel11.Location = New System.Drawing.Point(568, 667)
         Me.BunifuLabel11.Name = "BunifuLabel11"
         Me.BunifuLabel11.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel11.Size = New System.Drawing.Size(23, 17)
@@ -1850,9 +2179,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel11.Text = "Age"
         Me.BunifuLabel11.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel11.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel11, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel11, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel11, "")
         '
         'BunifuLabel10
         '
@@ -1861,7 +2187,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel10.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel10.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel10.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel10.Location = New System.Drawing.Point(48, 322)
+        Me.BunifuLabel10.Location = New System.Drawing.Point(52, 817)
         Me.BunifuLabel10.Name = "BunifuLabel10"
         Me.BunifuLabel10.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel10.Size = New System.Drawing.Size(66, 17)
@@ -1869,9 +2195,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel10.Text = "Occupation"
         Me.BunifuLabel10.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel10.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel10, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel10, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel10, "")
         '
         'LBLHEA
         '
@@ -1880,7 +2203,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.LBLHEA.Cursor = System.Windows.Forms.Cursors.Default
         Me.LBLHEA.CursorType = System.Windows.Forms.Cursors.Default
         Me.LBLHEA.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLHEA.Location = New System.Drawing.Point(421, 322)
+        Me.LBLHEA.Location = New System.Drawing.Point(425, 817)
         Me.LBLHEA.Name = "LBLHEA"
         Me.LBLHEA.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.LBLHEA.Size = New System.Drawing.Size(171, 17)
@@ -1888,10 +2211,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.LBLHEA.Text = "Highest Education Attainment"
         Me.LBLHEA.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.LBLHEA.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.LBLHEA, "Pinaka mataas na antas ng edukasyon" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Halimbawa : " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Elementary,Highschool, and Col" &
-        "lege " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10))
-        Me.TooltipHEA.SetToolTipIcon(Me.LBLHEA, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.LBLHEA, "")
         '
         'BunifuLabel8
         '
@@ -1900,7 +2219,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel8.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel8.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel8.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel8.Location = New System.Drawing.Point(48, 367)
+        Me.BunifuLabel8.Location = New System.Drawing.Point(52, 858)
         Me.BunifuLabel8.Name = "BunifuLabel8"
         Me.BunifuLabel8.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel8.Size = New System.Drawing.Size(102, 17)
@@ -1908,9 +2227,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel8.Text = "Present Employer"
         Me.BunifuLabel8.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel8.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel8, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel8, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel8, "")
         '
         'BunifuLabel7
         '
@@ -1919,7 +2235,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel7.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel7.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel7.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel7.Location = New System.Drawing.Point(48, 265)
+        Me.BunifuLabel7.Location = New System.Drawing.Point(52, 760)
         Me.BunifuLabel7.Name = "BunifuLabel7"
         Me.BunifuLabel7.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel7.Size = New System.Drawing.Size(95, 17)
@@ -1927,9 +2243,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel7.Text = "Present Address"
         Me.BunifuLabel7.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel7.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel7, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel7, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel7, "")
         '
         'TXTSRA
         '
@@ -1959,32 +2272,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSRA.IconRight = Nothing
         Me.TXTSRA.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTSRA.Lines = New String(-1) {}
-        Me.TXTSRA.Location = New System.Drawing.Point(194, 494)
+        Me.TXTSRA.Location = New System.Drawing.Point(198, 985)
         Me.TXTSRA.MaxLength = 32767
         Me.TXTSRA.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTSRA.Modified = False
         Me.TXTSRA.Multiline = False
         Me.TXTSRA.Name = "TXTSRA"
-        StateProperties61.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties61.FillColor = System.Drawing.Color.Empty
-        StateProperties61.ForeColor = System.Drawing.Color.Empty
-        StateProperties61.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSRA.OnActiveState = StateProperties61
-        StateProperties62.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties62.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties62.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties62.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTSRA.OnDisabledState = StateProperties62
-        StateProperties63.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties63.FillColor = System.Drawing.Color.Empty
-        StateProperties63.ForeColor = System.Drawing.Color.Empty
-        StateProperties63.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSRA.OnHoverState = StateProperties63
-        StateProperties64.BorderColor = System.Drawing.Color.Silver
-        StateProperties64.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties64.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties64.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSRA.OnIdleState = StateProperties64
+        StateProperties101.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties101.FillColor = System.Drawing.Color.Empty
+        StateProperties101.ForeColor = System.Drawing.Color.Empty
+        StateProperties101.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSRA.OnActiveState = StateProperties101
+        StateProperties102.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties102.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties102.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties102.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTSRA.OnDisabledState = StateProperties102
+        StateProperties103.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties103.FillColor = System.Drawing.Color.Empty
+        StateProperties103.ForeColor = System.Drawing.Color.Empty
+        StateProperties103.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSRA.OnHoverState = StateProperties103
+        StateProperties104.BorderColor = System.Drawing.Color.Silver
+        StateProperties104.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties104.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties104.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSRA.OnIdleState = StateProperties104
         Me.TXTSRA.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTSRA.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTSRA.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2003,9 +2316,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSRA.TextMarginLeft = 3
         Me.TXTSRA.TextMarginTop = 0
         Me.TXTSRA.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTSRA, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTSRA, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTSRA, "")
         Me.TXTSRA.UseSystemPasswordChar = False
         Me.TXTSRA.WordWrap = True
         '
@@ -2016,7 +2326,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel15.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel15.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel15.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel15.Location = New System.Drawing.Point(520, 456)
+        Me.BunifuLabel15.Location = New System.Drawing.Point(524, 947)
         Me.BunifuLabel15.Name = "BunifuLabel15"
         Me.BunifuLabel15.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel15.Size = New System.Drawing.Size(71, 17)
@@ -2024,9 +2334,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel15.Text = "Relationship"
         Me.BunifuLabel15.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel15.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel15, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel15, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel15, "")
         '
         'TXTRELATIONSHIP
         '
@@ -2056,32 +2363,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRELATIONSHIP.IconRight = Nothing
         Me.TXTRELATIONSHIP.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTRELATIONSHIP.Lines = New String(-1) {}
-        Me.TXTRELATIONSHIP.Location = New System.Drawing.Point(596, 445)
+        Me.TXTRELATIONSHIP.Location = New System.Drawing.Point(600, 936)
         Me.TXTRELATIONSHIP.MaxLength = 32767
         Me.TXTRELATIONSHIP.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTRELATIONSHIP.Modified = False
         Me.TXTRELATIONSHIP.Multiline = False
         Me.TXTRELATIONSHIP.Name = "TXTRELATIONSHIP"
-        StateProperties65.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties65.FillColor = System.Drawing.Color.Empty
-        StateProperties65.ForeColor = System.Drawing.Color.Empty
-        StateProperties65.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIONSHIP.OnActiveState = StateProperties65
-        StateProperties66.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties66.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties66.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties66.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTRELATIONSHIP.OnDisabledState = StateProperties66
-        StateProperties67.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties67.FillColor = System.Drawing.Color.Empty
-        StateProperties67.ForeColor = System.Drawing.Color.Empty
-        StateProperties67.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIONSHIP.OnHoverState = StateProperties67
-        StateProperties68.BorderColor = System.Drawing.Color.Silver
-        StateProperties68.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties68.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties68.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIONSHIP.OnIdleState = StateProperties68
+        StateProperties105.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties105.FillColor = System.Drawing.Color.Empty
+        StateProperties105.ForeColor = System.Drawing.Color.Empty
+        StateProperties105.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIONSHIP.OnActiveState = StateProperties105
+        StateProperties106.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties106.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties106.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties106.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTRELATIONSHIP.OnDisabledState = StateProperties106
+        StateProperties107.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties107.FillColor = System.Drawing.Color.Empty
+        StateProperties107.ForeColor = System.Drawing.Color.Empty
+        StateProperties107.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIONSHIP.OnHoverState = StateProperties107
+        StateProperties108.BorderColor = System.Drawing.Color.Silver
+        StateProperties108.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties108.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties108.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIONSHIP.OnIdleState = StateProperties108
         Me.TXTRELATIONSHIP.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTRELATIONSHIP.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTRELATIONSHIP.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2100,9 +2407,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRELATIONSHIP.TextMarginLeft = 3
         Me.TXTRELATIONSHIP.TextMarginTop = 0
         Me.TXTRELATIONSHIP.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTRELATIONSHIP, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTRELATIONSHIP, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTRELATIONSHIP, "")
         Me.TXTRELATIONSHIP.UseSystemPasswordChar = False
         Me.TXTRELATIONSHIP.WordWrap = True
         '
@@ -2113,7 +2417,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel14.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel14.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel14.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel14.Location = New System.Drawing.Point(39, 456)
+        Me.BunifuLabel14.Location = New System.Drawing.Point(43, 947)
         Me.BunifuLabel14.Name = "BunifuLabel14"
         Me.BunifuLabel14.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel14.Size = New System.Drawing.Size(95, 17)
@@ -2121,9 +2425,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel14.Text = "Nearest Relative"
         Me.BunifuLabel14.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel14.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel14, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel14, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel14, "")
         '
         'TXTRELATIVE
         '
@@ -2153,32 +2454,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRELATIVE.IconRight = Nothing
         Me.TXTRELATIVE.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTRELATIVE.Lines = New String(-1) {}
-        Me.TXTRELATIVE.Location = New System.Drawing.Point(141, 445)
+        Me.TXTRELATIVE.Location = New System.Drawing.Point(145, 936)
         Me.TXTRELATIVE.MaxLength = 32767
         Me.TXTRELATIVE.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTRELATIVE.Modified = False
         Me.TXTRELATIVE.Multiline = False
         Me.TXTRELATIVE.Name = "TXTRELATIVE"
-        StateProperties69.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties69.FillColor = System.Drawing.Color.Empty
-        StateProperties69.ForeColor = System.Drawing.Color.Empty
-        StateProperties69.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIVE.OnActiveState = StateProperties69
-        StateProperties70.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties70.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties70.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties70.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTRELATIVE.OnDisabledState = StateProperties70
-        StateProperties71.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties71.FillColor = System.Drawing.Color.Empty
-        StateProperties71.ForeColor = System.Drawing.Color.Empty
-        StateProperties71.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIVE.OnHoverState = StateProperties71
-        StateProperties72.BorderColor = System.Drawing.Color.Silver
-        StateProperties72.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties72.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties72.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTRELATIVE.OnIdleState = StateProperties72
+        StateProperties109.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties109.FillColor = System.Drawing.Color.Empty
+        StateProperties109.ForeColor = System.Drawing.Color.Empty
+        StateProperties109.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIVE.OnActiveState = StateProperties109
+        StateProperties110.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties110.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties110.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties110.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTRELATIVE.OnDisabledState = StateProperties110
+        StateProperties111.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties111.FillColor = System.Drawing.Color.Empty
+        StateProperties111.ForeColor = System.Drawing.Color.Empty
+        StateProperties111.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIVE.OnHoverState = StateProperties111
+        StateProperties112.BorderColor = System.Drawing.Color.Silver
+        StateProperties112.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties112.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties112.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTRELATIVE.OnIdleState = StateProperties112
         Me.TXTRELATIVE.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTRELATIVE.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTRELATIVE.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2197,9 +2498,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTRELATIVE.TextMarginLeft = 3
         Me.TXTRELATIVE.TextMarginTop = 0
         Me.TXTRELATIVE.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTRELATIVE, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTRELATIVE, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTRELATIVE, "")
         Me.TXTRELATIVE.UseSystemPasswordChar = False
         Me.TXTRELATIVE.WordWrap = True
         '
@@ -2210,7 +2508,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel13.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel13.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel13.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel13.Location = New System.Drawing.Point(51, 415)
+        Me.BunifuLabel13.Location = New System.Drawing.Point(55, 906)
         Me.BunifuLabel13.Name = "BunifuLabel13"
         Me.BunifuLabel13.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel13.Size = New System.Drawing.Size(35, 17)
@@ -2218,9 +2516,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel13.Text = "Salary"
         Me.BunifuLabel13.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel13.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel13, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel13, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel13, "")
         '
         'BunifuLabel9
         '
@@ -2229,7 +2524,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel9.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel9.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel9.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel9.Location = New System.Drawing.Point(441, 415)
+        Me.BunifuLabel9.Location = New System.Drawing.Point(445, 906)
         Me.BunifuLabel9.Name = "BunifuLabel9"
         Me.BunifuLabel9.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel9.Size = New System.Drawing.Size(139, 17)
@@ -2237,33 +2532,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel9.Text = "Other Source of Income"
         Me.BunifuLabel9.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel9.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel9, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel9, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel9, "")
-        '
-        'TXTHEA
-        '
-        Me.TXTHEA.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TXTHEA.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
-        Me.TXTHEA.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.TXTHEA.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TXTHEA.FocusedColor = System.Drawing.Color.Empty
-        Me.TXTHEA.FocusedState.Parent = Me.TXTHEA
-        Me.TXTHEA.Font = New System.Drawing.Font("Segoe UI", 10.0!)
-        Me.TXTHEA.ForeColor = System.Drawing.Color.FromArgb(CType(CType(68, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(112, Byte), Integer))
-        Me.TXTHEA.FormattingEnabled = True
-        Me.TXTHEA.HoverState.Parent = Me.TXTHEA
-        Me.TXTHEA.ItemHeight = 30
-        Me.TXTHEA.Items.AddRange(New Object() {"Elementary", "HighSchool", "College", "N/A (if not Applicable)"})
-        Me.TXTHEA.ItemsAppearance.Parent = Me.TXTHEA
-        Me.TXTHEA.Location = New System.Drawing.Point(596, 312)
-        Me.TXTHEA.Name = "TXTHEA"
-        Me.TXTHEA.ShadowDecoration.Parent = Me.TXTHEA
-        Me.TXTHEA.Size = New System.Drawing.Size(280, 36)
-        Me.TXTHEA.TabIndex = 77
-        Me.TooltipHEA.SetToolTip(Me.TXTHEA, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTHEA, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTHEA, "")
         '
         'BunifuLabel6
         '
@@ -2272,7 +2540,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel6.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel6.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel6.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel6.Location = New System.Drawing.Point(48, 218)
+        Me.BunifuLabel6.Location = New System.Drawing.Point(52, 713)
         Me.BunifuLabel6.Name = "BunifuLabel6"
         Me.BunifuLabel6.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel6.Size = New System.Drawing.Size(56, 17)
@@ -2280,9 +2548,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel6.Text = "BirthPlace"
         Me.BunifuLabel6.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel6.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel6, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel6, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel6, "")
         '
         'BunifuLabel5
         '
@@ -2291,7 +2556,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel5.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel5.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel5.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel5.Location = New System.Drawing.Point(537, 226)
+        Me.BunifuLabel5.Location = New System.Drawing.Point(541, 721)
         Me.BunifuLabel5.Name = "BunifuLabel5"
         Me.BunifuLabel5.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel5.Size = New System.Drawing.Size(52, 17)
@@ -2299,9 +2564,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel5.Text = "Birthdate"
         Me.BunifuLabel5.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel5.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel5, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel5, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel5, "")
         '
         'LBLCS
         '
@@ -2310,7 +2572,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.LBLCS.Cursor = System.Windows.Forms.Cursors.Default
         Me.LBLCS.CursorType = System.Windows.Forms.Cursors.Default
         Me.LBLCS.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLCS.Location = New System.Drawing.Point(528, 120)
+        Me.LBLCS.Location = New System.Drawing.Point(532, 615)
         Me.LBLCS.Name = "LBLCS"
         Me.LBLCS.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.LBLCS.Size = New System.Drawing.Size(62, 17)
@@ -2318,9 +2580,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.LBLCS.Text = "Civil Status"
         Me.LBLCS.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.LBLCS.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.LBLCS, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.LBLCS, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.LBLCS, "")
         '
         'BunifuLabel3
         '
@@ -2329,7 +2588,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel3.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel3.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel3.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel3.Location = New System.Drawing.Point(48, 172)
+        Me.BunifuLabel3.Location = New System.Drawing.Point(52, 667)
         Me.BunifuLabel3.Name = "BunifuLabel3"
         Me.BunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel3.Size = New System.Drawing.Size(182, 17)
@@ -2337,9 +2596,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel3.Text = "Tax Identification Number (TIN)"
         Me.BunifuLabel3.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel3.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel3, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel3, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel3, "")
         '
         'BunifuLabel2
         '
@@ -2348,7 +2604,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel2.Cursor = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel2.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel2.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuLabel2.Location = New System.Drawing.Point(51, 120)
+        Me.BunifuLabel2.Location = New System.Drawing.Point(55, 615)
         Me.BunifuLabel2.Name = "BunifuLabel2"
         Me.BunifuLabel2.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel2.Size = New System.Drawing.Size(35, 17)
@@ -2356,9 +2612,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel2.Text = "Name"
         Me.BunifuLabel2.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel2.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel2, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel2, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel2, "")
         '
         'TXTADDRESS
         '
@@ -2388,32 +2641,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTADDRESS.IconRight = Nothing
         Me.TXTADDRESS.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTADDRESS.Lines = New String(-1) {}
-        Me.TXTADDRESS.Location = New System.Drawing.Point(150, 255)
+        Me.TXTADDRESS.Location = New System.Drawing.Point(154, 750)
         Me.TXTADDRESS.MaxLength = 32767
         Me.TXTADDRESS.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTADDRESS.Modified = False
         Me.TXTADDRESS.Multiline = False
         Me.TXTADDRESS.Name = "TXTADDRESS"
-        StateProperties73.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties73.FillColor = System.Drawing.Color.Empty
-        StateProperties73.ForeColor = System.Drawing.Color.Empty
-        StateProperties73.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTADDRESS.OnActiveState = StateProperties73
-        StateProperties74.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties74.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties74.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties74.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTADDRESS.OnDisabledState = StateProperties74
-        StateProperties75.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties75.FillColor = System.Drawing.Color.Empty
-        StateProperties75.ForeColor = System.Drawing.Color.Empty
-        StateProperties75.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTADDRESS.OnHoverState = StateProperties75
-        StateProperties76.BorderColor = System.Drawing.Color.Silver
-        StateProperties76.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties76.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties76.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTADDRESS.OnIdleState = StateProperties76
+        StateProperties113.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties113.FillColor = System.Drawing.Color.Empty
+        StateProperties113.ForeColor = System.Drawing.Color.Empty
+        StateProperties113.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTADDRESS.OnActiveState = StateProperties113
+        StateProperties114.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties114.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties114.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties114.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTADDRESS.OnDisabledState = StateProperties114
+        StateProperties115.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties115.FillColor = System.Drawing.Color.Empty
+        StateProperties115.ForeColor = System.Drawing.Color.Empty
+        StateProperties115.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTADDRESS.OnHoverState = StateProperties115
+        StateProperties116.BorderColor = System.Drawing.Color.Silver
+        StateProperties116.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties116.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties116.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTADDRESS.OnIdleState = StateProperties116
         Me.TXTADDRESS.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTADDRESS.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTADDRESS.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2432,9 +2685,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTADDRESS.TextMarginLeft = 3
         Me.TXTADDRESS.TextMarginTop = 0
         Me.TXTADDRESS.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTADDRESS, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTADDRESS, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTADDRESS, "")
         Me.TXTADDRESS.UseSystemPasswordChar = False
         Me.TXTADDRESS.WordWrap = True
         '
@@ -2466,32 +2716,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTEMP.IconRight = Nothing
         Me.TXTEMP.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTEMP.Lines = New String(-1) {}
-        Me.TXTEMP.Location = New System.Drawing.Point(156, 358)
+        Me.TXTEMP.Location = New System.Drawing.Point(160, 849)
         Me.TXTEMP.MaxLength = 32767
         Me.TXTEMP.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTEMP.Modified = False
         Me.TXTEMP.Multiline = False
         Me.TXTEMP.Name = "TXTEMP"
-        StateProperties77.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties77.FillColor = System.Drawing.Color.Empty
-        StateProperties77.ForeColor = System.Drawing.Color.Empty
-        StateProperties77.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTEMP.OnActiveState = StateProperties77
-        StateProperties78.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties78.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties78.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties78.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTEMP.OnDisabledState = StateProperties78
-        StateProperties79.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties79.FillColor = System.Drawing.Color.Empty
-        StateProperties79.ForeColor = System.Drawing.Color.Empty
-        StateProperties79.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTEMP.OnHoverState = StateProperties79
-        StateProperties80.BorderColor = System.Drawing.Color.Silver
-        StateProperties80.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties80.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties80.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTEMP.OnIdleState = StateProperties80
+        StateProperties117.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties117.FillColor = System.Drawing.Color.Empty
+        StateProperties117.ForeColor = System.Drawing.Color.Empty
+        StateProperties117.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTEMP.OnActiveState = StateProperties117
+        StateProperties118.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties118.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties118.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties118.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTEMP.OnDisabledState = StateProperties118
+        StateProperties119.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties119.FillColor = System.Drawing.Color.Empty
+        StateProperties119.ForeColor = System.Drawing.Color.Empty
+        StateProperties119.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTEMP.OnHoverState = StateProperties119
+        StateProperties120.BorderColor = System.Drawing.Color.Silver
+        StateProperties120.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties120.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties120.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTEMP.OnIdleState = StateProperties120
         Me.TXTEMP.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTEMP.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTEMP.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2510,9 +2760,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTEMP.TextMarginLeft = 3
         Me.TXTEMP.TextMarginTop = 0
         Me.TXTEMP.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTEMP, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTEMP, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTEMP, "")
         Me.TXTEMP.UseSystemPasswordChar = False
         Me.TXTEMP.WordWrap = True
         '
@@ -2544,32 +2791,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTCS.IconRight = Nothing
         Me.TXTCS.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTCS.Lines = New String(-1) {}
-        Me.TXTCS.Location = New System.Drawing.Point(596, 110)
+        Me.TXTCS.Location = New System.Drawing.Point(600, 605)
         Me.TXTCS.MaxLength = 32767
         Me.TXTCS.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTCS.Modified = False
         Me.TXTCS.Multiline = False
         Me.TXTCS.Name = "TXTCS"
-        StateProperties81.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties81.FillColor = System.Drawing.Color.Empty
-        StateProperties81.ForeColor = System.Drawing.Color.Empty
-        StateProperties81.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTCS.OnActiveState = StateProperties81
-        StateProperties82.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties82.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties82.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties82.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTCS.OnDisabledState = StateProperties82
-        StateProperties83.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties83.FillColor = System.Drawing.Color.Empty
-        StateProperties83.ForeColor = System.Drawing.Color.Empty
-        StateProperties83.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTCS.OnHoverState = StateProperties83
-        StateProperties84.BorderColor = System.Drawing.Color.Silver
-        StateProperties84.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties84.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties84.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTCS.OnIdleState = StateProperties84
+        StateProperties121.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties121.FillColor = System.Drawing.Color.Empty
+        StateProperties121.ForeColor = System.Drawing.Color.Empty
+        StateProperties121.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTCS.OnActiveState = StateProperties121
+        StateProperties122.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties122.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties122.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties122.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTCS.OnDisabledState = StateProperties122
+        StateProperties123.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties123.FillColor = System.Drawing.Color.Empty
+        StateProperties123.ForeColor = System.Drawing.Color.Empty
+        StateProperties123.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTCS.OnHoverState = StateProperties123
+        StateProperties124.BorderColor = System.Drawing.Color.Silver
+        StateProperties124.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties124.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties124.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTCS.OnIdleState = StateProperties124
         Me.TXTCS.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTCS.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTCS.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2588,9 +2835,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTCS.TextMarginLeft = 3
         Me.TXTCS.TextMarginTop = 0
         Me.TXTCS.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTCS, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTCS, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTCS, "")
         Me.TXTCS.UseSystemPasswordChar = False
         Me.TXTCS.WordWrap = True
         '
@@ -2622,32 +2866,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTAGE.IconRight = Nothing
         Me.TXTAGE.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTAGE.Lines = New String(-1) {}
-        Me.TXTAGE.Location = New System.Drawing.Point(596, 161)
+        Me.TXTAGE.Location = New System.Drawing.Point(600, 656)
         Me.TXTAGE.MaxLength = 32767
         Me.TXTAGE.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTAGE.Modified = False
         Me.TXTAGE.Multiline = False
         Me.TXTAGE.Name = "TXTAGE"
-        StateProperties85.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties85.FillColor = System.Drawing.Color.Empty
-        StateProperties85.ForeColor = System.Drawing.Color.Empty
-        StateProperties85.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTAGE.OnActiveState = StateProperties85
-        StateProperties86.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties86.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties86.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties86.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTAGE.OnDisabledState = StateProperties86
-        StateProperties87.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties87.FillColor = System.Drawing.Color.Empty
-        StateProperties87.ForeColor = System.Drawing.Color.Empty
-        StateProperties87.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTAGE.OnHoverState = StateProperties87
-        StateProperties88.BorderColor = System.Drawing.Color.Silver
-        StateProperties88.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties88.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties88.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTAGE.OnIdleState = StateProperties88
+        StateProperties125.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties125.FillColor = System.Drawing.Color.Empty
+        StateProperties125.ForeColor = System.Drawing.Color.Empty
+        StateProperties125.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTAGE.OnActiveState = StateProperties125
+        StateProperties126.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties126.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties126.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties126.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTAGE.OnDisabledState = StateProperties126
+        StateProperties127.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties127.FillColor = System.Drawing.Color.Empty
+        StateProperties127.ForeColor = System.Drawing.Color.Empty
+        StateProperties127.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTAGE.OnHoverState = StateProperties127
+        StateProperties128.BorderColor = System.Drawing.Color.Silver
+        StateProperties128.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties128.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties128.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTAGE.OnIdleState = StateProperties128
         Me.TXTAGE.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTAGE.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTAGE.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2666,9 +2910,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTAGE.TextMarginLeft = 3
         Me.TXTAGE.TextMarginTop = 0
         Me.TXTAGE.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTAGE, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTAGE, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTAGE, "")
         Me.TXTAGE.UseSystemPasswordChar = False
         Me.TXTAGE.WordWrap = True
         '
@@ -2700,32 +2941,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTGEN.IconRight = Nothing
         Me.TXTGEN.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTGEN.Lines = New String(-1) {}
-        Me.TXTGEN.Location = New System.Drawing.Point(731, 161)
+        Me.TXTGEN.Location = New System.Drawing.Point(735, 656)
         Me.TXTGEN.MaxLength = 32767
         Me.TXTGEN.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTGEN.Modified = False
         Me.TXTGEN.Multiline = False
         Me.TXTGEN.Name = "TXTGEN"
-        StateProperties89.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties89.FillColor = System.Drawing.Color.Empty
-        StateProperties89.ForeColor = System.Drawing.Color.Empty
-        StateProperties89.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTGEN.OnActiveState = StateProperties89
-        StateProperties90.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties90.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties90.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties90.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTGEN.OnDisabledState = StateProperties90
-        StateProperties91.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties91.FillColor = System.Drawing.Color.Empty
-        StateProperties91.ForeColor = System.Drawing.Color.Empty
-        StateProperties91.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTGEN.OnHoverState = StateProperties91
-        StateProperties92.BorderColor = System.Drawing.Color.Silver
-        StateProperties92.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties92.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties92.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTGEN.OnIdleState = StateProperties92
+        StateProperties129.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties129.FillColor = System.Drawing.Color.Empty
+        StateProperties129.ForeColor = System.Drawing.Color.Empty
+        StateProperties129.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTGEN.OnActiveState = StateProperties129
+        StateProperties130.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties130.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties130.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties130.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTGEN.OnDisabledState = StateProperties130
+        StateProperties131.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties131.FillColor = System.Drawing.Color.Empty
+        StateProperties131.ForeColor = System.Drawing.Color.Empty
+        StateProperties131.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTGEN.OnHoverState = StateProperties131
+        StateProperties132.BorderColor = System.Drawing.Color.Silver
+        StateProperties132.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties132.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties132.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTGEN.OnIdleState = StateProperties132
         Me.TXTGEN.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTGEN.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTGEN.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2744,9 +2985,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTGEN.TextMarginLeft = 3
         Me.TXTGEN.TextMarginTop = 0
         Me.TXTGEN.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTGEN, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTGEN, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTGEN, "")
         Me.TXTGEN.UseSystemPasswordChar = False
         Me.TXTGEN.WordWrap = True
         '
@@ -2778,32 +3016,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSOI.IconRight = Nothing
         Me.TXTSOI.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTSOI.Lines = New String(-1) {}
-        Me.TXTSOI.Location = New System.Drawing.Point(596, 402)
+        Me.TXTSOI.Location = New System.Drawing.Point(600, 893)
         Me.TXTSOI.MaxLength = 32767
         Me.TXTSOI.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTSOI.Modified = False
         Me.TXTSOI.Multiline = False
         Me.TXTSOI.Name = "TXTSOI"
-        StateProperties93.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties93.FillColor = System.Drawing.Color.Empty
-        StateProperties93.ForeColor = System.Drawing.Color.Empty
-        StateProperties93.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSOI.OnActiveState = StateProperties93
-        StateProperties94.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties94.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties94.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties94.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTSOI.OnDisabledState = StateProperties94
-        StateProperties95.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties95.FillColor = System.Drawing.Color.Empty
-        StateProperties95.ForeColor = System.Drawing.Color.Empty
-        StateProperties95.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSOI.OnHoverState = StateProperties95
-        StateProperties96.BorderColor = System.Drawing.Color.Silver
-        StateProperties96.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties96.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties96.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSOI.OnIdleState = StateProperties96
+        StateProperties133.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties133.FillColor = System.Drawing.Color.Empty
+        StateProperties133.ForeColor = System.Drawing.Color.Empty
+        StateProperties133.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSOI.OnActiveState = StateProperties133
+        StateProperties134.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties134.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties134.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties134.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTSOI.OnDisabledState = StateProperties134
+        StateProperties135.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties135.FillColor = System.Drawing.Color.Empty
+        StateProperties135.ForeColor = System.Drawing.Color.Empty
+        StateProperties135.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSOI.OnHoverState = StateProperties135
+        StateProperties136.BorderColor = System.Drawing.Color.Silver
+        StateProperties136.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties136.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties136.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSOI.OnIdleState = StateProperties136
         Me.TXTSOI.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTSOI.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTSOI.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2822,9 +3060,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSOI.TextMarginLeft = 3
         Me.TXTSOI.TextMarginTop = 0
         Me.TXTSOI.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTSOI, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTSOI, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTSOI, "")
         Me.TXTSOI.UseSystemPasswordChar = False
         Me.TXTSOI.WordWrap = True
         '
@@ -2856,32 +3091,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSALARY.IconRight = Nothing
         Me.TXTSALARY.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTSALARY.Lines = New String(-1) {}
-        Me.TXTSALARY.Location = New System.Drawing.Point(101, 402)
+        Me.TXTSALARY.Location = New System.Drawing.Point(105, 893)
         Me.TXTSALARY.MaxLength = 32767
         Me.TXTSALARY.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTSALARY.Modified = False
         Me.TXTSALARY.Multiline = False
         Me.TXTSALARY.Name = "TXTSALARY"
-        StateProperties97.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties97.FillColor = System.Drawing.Color.Empty
-        StateProperties97.ForeColor = System.Drawing.Color.Empty
-        StateProperties97.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSALARY.OnActiveState = StateProperties97
-        StateProperties98.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties98.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties98.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties98.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTSALARY.OnDisabledState = StateProperties98
-        StateProperties99.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties99.FillColor = System.Drawing.Color.Empty
-        StateProperties99.ForeColor = System.Drawing.Color.Empty
-        StateProperties99.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSALARY.OnHoverState = StateProperties99
-        StateProperties100.BorderColor = System.Drawing.Color.Silver
-        StateProperties100.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties100.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties100.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTSALARY.OnIdleState = StateProperties100
+        StateProperties137.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties137.FillColor = System.Drawing.Color.Empty
+        StateProperties137.ForeColor = System.Drawing.Color.Empty
+        StateProperties137.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSALARY.OnActiveState = StateProperties137
+        StateProperties138.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties138.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties138.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties138.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTSALARY.OnDisabledState = StateProperties138
+        StateProperties139.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties139.FillColor = System.Drawing.Color.Empty
+        StateProperties139.ForeColor = System.Drawing.Color.Empty
+        StateProperties139.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSALARY.OnHoverState = StateProperties139
+        StateProperties140.BorderColor = System.Drawing.Color.Silver
+        StateProperties140.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties140.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties140.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTSALARY.OnIdleState = StateProperties140
         Me.TXTSALARY.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTSALARY.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTSALARY.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2900,9 +3135,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTSALARY.TextMarginLeft = 3
         Me.TXTSALARY.TextMarginTop = 0
         Me.TXTSALARY.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTSALARY, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTSALARY, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTSALARY, "")
         Me.TXTSALARY.UseSystemPasswordChar = False
         Me.TXTSALARY.WordWrap = True
         '
@@ -2934,32 +3166,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTOCCUPATION.IconRight = Nothing
         Me.TXTOCCUPATION.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTOCCUPATION.Lines = New String(-1) {}
-        Me.TXTOCCUPATION.Location = New System.Drawing.Point(122, 311)
+        Me.TXTOCCUPATION.Location = New System.Drawing.Point(126, 806)
         Me.TXTOCCUPATION.MaxLength = 32767
         Me.TXTOCCUPATION.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTOCCUPATION.Modified = False
         Me.TXTOCCUPATION.Multiline = False
         Me.TXTOCCUPATION.Name = "TXTOCCUPATION"
-        StateProperties101.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties101.FillColor = System.Drawing.Color.Empty
-        StateProperties101.ForeColor = System.Drawing.Color.Empty
-        StateProperties101.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTOCCUPATION.OnActiveState = StateProperties101
-        StateProperties102.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties102.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties102.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties102.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTOCCUPATION.OnDisabledState = StateProperties102
-        StateProperties103.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties103.FillColor = System.Drawing.Color.Empty
-        StateProperties103.ForeColor = System.Drawing.Color.Empty
-        StateProperties103.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTOCCUPATION.OnHoverState = StateProperties103
-        StateProperties104.BorderColor = System.Drawing.Color.Silver
-        StateProperties104.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties104.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties104.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTOCCUPATION.OnIdleState = StateProperties104
+        StateProperties141.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties141.FillColor = System.Drawing.Color.Empty
+        StateProperties141.ForeColor = System.Drawing.Color.Empty
+        StateProperties141.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTOCCUPATION.OnActiveState = StateProperties141
+        StateProperties142.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties142.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties142.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties142.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTOCCUPATION.OnDisabledState = StateProperties142
+        StateProperties143.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties143.FillColor = System.Drawing.Color.Empty
+        StateProperties143.ForeColor = System.Drawing.Color.Empty
+        StateProperties143.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTOCCUPATION.OnHoverState = StateProperties143
+        StateProperties144.BorderColor = System.Drawing.Color.Silver
+        StateProperties144.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties144.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties144.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTOCCUPATION.OnIdleState = StateProperties144
         Me.TXTOCCUPATION.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTOCCUPATION.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTOCCUPATION.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -2978,9 +3210,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTOCCUPATION.TextMarginLeft = 3
         Me.TXTOCCUPATION.TextMarginTop = 0
         Me.TXTOCCUPATION.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTOCCUPATION, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTOCCUPATION, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTOCCUPATION, "")
         Me.TXTOCCUPATION.UseSystemPasswordChar = False
         Me.TXTOCCUPATION.WordWrap = True
         '
@@ -3012,32 +3241,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTBP.IconRight = Nothing
         Me.TXTBP.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTBP.Lines = New String(-1) {}
-        Me.TXTBP.Location = New System.Drawing.Point(122, 204)
+        Me.TXTBP.Location = New System.Drawing.Point(126, 699)
         Me.TXTBP.MaxLength = 32767
         Me.TXTBP.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTBP.Modified = False
         Me.TXTBP.Multiline = False
         Me.TXTBP.Name = "TXTBP"
-        StateProperties105.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties105.FillColor = System.Drawing.Color.Empty
-        StateProperties105.ForeColor = System.Drawing.Color.Empty
-        StateProperties105.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTBP.OnActiveState = StateProperties105
-        StateProperties106.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties106.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties106.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties106.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTBP.OnDisabledState = StateProperties106
-        StateProperties107.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties107.FillColor = System.Drawing.Color.Empty
-        StateProperties107.ForeColor = System.Drawing.Color.Empty
-        StateProperties107.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTBP.OnHoverState = StateProperties107
-        StateProperties108.BorderColor = System.Drawing.Color.Silver
-        StateProperties108.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties108.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties108.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTBP.OnIdleState = StateProperties108
+        StateProperties145.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties145.FillColor = System.Drawing.Color.Empty
+        StateProperties145.ForeColor = System.Drawing.Color.Empty
+        StateProperties145.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTBP.OnActiveState = StateProperties145
+        StateProperties146.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties146.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties146.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties146.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTBP.OnDisabledState = StateProperties146
+        StateProperties147.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties147.FillColor = System.Drawing.Color.Empty
+        StateProperties147.ForeColor = System.Drawing.Color.Empty
+        StateProperties147.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTBP.OnHoverState = StateProperties147
+        StateProperties148.BorderColor = System.Drawing.Color.Silver
+        StateProperties148.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties148.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties148.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTBP.OnIdleState = StateProperties148
         Me.TXTBP.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTBP.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTBP.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -3056,9 +3285,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTBP.TextMarginLeft = 3
         Me.TXTBP.TextMarginTop = 0
         Me.TXTBP.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTBP, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTBP, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTBP, "")
         Me.TXTBP.UseSystemPasswordChar = False
         Me.TXTBP.WordWrap = True
         '
@@ -3090,32 +3316,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTTIN.IconRight = Nothing
         Me.TXTTIN.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTTIN.Lines = New String(-1) {}
-        Me.TXTTIN.Location = New System.Drawing.Point(236, 161)
+        Me.TXTTIN.Location = New System.Drawing.Point(240, 656)
         Me.TXTTIN.MaxLength = 32767
         Me.TXTTIN.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTTIN.Modified = False
         Me.TXTTIN.Multiline = False
         Me.TXTTIN.Name = "TXTTIN"
-        StateProperties109.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties109.FillColor = System.Drawing.Color.Empty
-        StateProperties109.ForeColor = System.Drawing.Color.Empty
-        StateProperties109.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTTIN.OnActiveState = StateProperties109
-        StateProperties110.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties110.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties110.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties110.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTTIN.OnDisabledState = StateProperties110
-        StateProperties111.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties111.FillColor = System.Drawing.Color.Empty
-        StateProperties111.ForeColor = System.Drawing.Color.Empty
-        StateProperties111.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTTIN.OnHoverState = StateProperties111
-        StateProperties112.BorderColor = System.Drawing.Color.Silver
-        StateProperties112.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties112.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties112.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTTIN.OnIdleState = StateProperties112
+        StateProperties149.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties149.FillColor = System.Drawing.Color.Empty
+        StateProperties149.ForeColor = System.Drawing.Color.Empty
+        StateProperties149.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTTIN.OnActiveState = StateProperties149
+        StateProperties150.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties150.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties150.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties150.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTTIN.OnDisabledState = StateProperties150
+        StateProperties151.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties151.FillColor = System.Drawing.Color.Empty
+        StateProperties151.ForeColor = System.Drawing.Color.Empty
+        StateProperties151.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTTIN.OnHoverState = StateProperties151
+        StateProperties152.BorderColor = System.Drawing.Color.Silver
+        StateProperties152.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties152.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties152.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTTIN.OnIdleState = StateProperties152
         Me.TXTTIN.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTTIN.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTTIN.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -3134,9 +3360,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTTIN.TextMarginLeft = 3
         Me.TXTTIN.TextMarginTop = 0
         Me.TXTTIN.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTTIN, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTTIN, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTTIN, "")
         Me.TXTTIN.UseSystemPasswordChar = False
         Me.TXTTIN.WordWrap = True
         '
@@ -3168,32 +3391,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTNAME.IconRight = Nothing
         Me.TXTNAME.IconRightCursor = System.Windows.Forms.Cursors.IBeam
         Me.TXTNAME.Lines = New String(-1) {}
-        Me.TXTNAME.Location = New System.Drawing.Point(101, 110)
+        Me.TXTNAME.Location = New System.Drawing.Point(105, 605)
         Me.TXTNAME.MaxLength = 32767
         Me.TXTNAME.MinimumSize = New System.Drawing.Size(1, 1)
         Me.TXTNAME.Modified = False
         Me.TXTNAME.Multiline = False
         Me.TXTNAME.Name = "TXTNAME"
-        StateProperties113.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties113.FillColor = System.Drawing.Color.Empty
-        StateProperties113.ForeColor = System.Drawing.Color.Empty
-        StateProperties113.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTNAME.OnActiveState = StateProperties113
-        StateProperties114.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties114.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties114.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties114.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.TXTNAME.OnDisabledState = StateProperties114
-        StateProperties115.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties115.FillColor = System.Drawing.Color.Empty
-        StateProperties115.ForeColor = System.Drawing.Color.Empty
-        StateProperties115.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTNAME.OnHoverState = StateProperties115
-        StateProperties116.BorderColor = System.Drawing.Color.Silver
-        StateProperties116.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties116.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        StateProperties116.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.TXTNAME.OnIdleState = StateProperties116
+        StateProperties153.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties153.FillColor = System.Drawing.Color.Empty
+        StateProperties153.ForeColor = System.Drawing.Color.Empty
+        StateProperties153.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTNAME.OnActiveState = StateProperties153
+        StateProperties154.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties154.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties154.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties154.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.TXTNAME.OnDisabledState = StateProperties154
+        StateProperties155.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties155.FillColor = System.Drawing.Color.Empty
+        StateProperties155.ForeColor = System.Drawing.Color.Empty
+        StateProperties155.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTNAME.OnHoverState = StateProperties155
+        StateProperties156.BorderColor = System.Drawing.Color.Silver
+        StateProperties156.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties156.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties156.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.TXTNAME.OnIdleState = StateProperties156
         Me.TXTNAME.Padding = New System.Windows.Forms.Padding(3)
         Me.TXTNAME.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TXTNAME.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -3212,9 +3435,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.TXTNAME.TextMarginLeft = 3
         Me.TXTNAME.TextMarginTop = 0
         Me.TXTNAME.TextPlaceholder = ""
-        Me.TooltipHEA.SetToolTip(Me.TXTNAME, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.TXTNAME, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.TXTNAME, "")
         Me.TXTNAME.UseSystemPasswordChar = False
         Me.TXTNAME.WordWrap = True
         '
@@ -3226,7 +3446,7 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel1.CursorType = System.Windows.Forms.Cursors.Default
         Me.BunifuLabel1.Font = New System.Drawing.Font("Segoe UI", 14.25!)
         Me.BunifuLabel1.ForeColor = System.Drawing.Color.Black
-        Me.BunifuLabel1.Location = New System.Drawing.Point(404, 69)
+        Me.BunifuLabel1.Location = New System.Drawing.Point(57, 566)
         Me.BunifuLabel1.Name = "BunifuLabel1"
         Me.BunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.BunifuLabel1.Size = New System.Drawing.Size(177, 25)
@@ -3234,92 +3454,671 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.BunifuLabel1.Text = "Personal Information"
         Me.BunifuLabel1.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel1.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.BunifuLabel1, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.BunifuLabel1, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.BunifuLabel1, "")
         '
-        'LBLDASHBOARD
+        'BunifuTextBox4
         '
-        Me.LBLDASHBOARD.AllowParentOverrides = False
-        Me.LBLDASHBOARD.AutoEllipsis = False
-        Me.LBLDASHBOARD.Cursor = System.Windows.Forms.Cursors.Default
-        Me.LBLDASHBOARD.CursorType = System.Windows.Forms.Cursors.Default
-        Me.LBLDASHBOARD.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Bold)
-        Me.LBLDASHBOARD.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
-        Me.LBLDASHBOARD.Location = New System.Drawing.Point(15, 36)
-        Me.LBLDASHBOARD.Name = "LBLDASHBOARD"
-        Me.LBLDASHBOARD.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.LBLDASHBOARD.Size = New System.Drawing.Size(243, 30)
-        Me.LBLDASHBOARD.TabIndex = 52
-        Me.LBLDASHBOARD.Text = "Membership Application"
-        Me.LBLDASHBOARD.TextAlignment = System.Drawing.ContentAlignment.TopLeft
-        Me.LBLDASHBOARD.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
-        Me.TooltipHEA.SetToolTip(Me.LBLDASHBOARD, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.LBLDASHBOARD, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.LBLDASHBOARD, "")
+        Me.BunifuTextBox4.AcceptsReturn = False
+        Me.BunifuTextBox4.AcceptsTab = False
+        Me.BunifuTextBox4.AnimationSpeed = 200
+        Me.BunifuTextBox4.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox4.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox4.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox4.BackgroundImage = CType(resources.GetObject("BunifuTextBox4.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox4.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox4.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox4.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox4.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox4.BorderRadius = 1
+        Me.BunifuTextBox4.BorderThickness = 1
+        Me.BunifuTextBox4.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox4.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox4.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox4.DefaultText = ""
+        Me.BunifuTextBox4.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox4.HideSelection = True
+        Me.BunifuTextBox4.IconLeft = Nothing
+        Me.BunifuTextBox4.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox4.IconPadding = 10
+        Me.BunifuTextBox4.IconRight = Nothing
+        Me.BunifuTextBox4.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox4.Lines = New String(-1) {}
+        Me.BunifuTextBox4.Location = New System.Drawing.Point(328, 268)
+        Me.BunifuTextBox4.MaxLength = 32767
+        Me.BunifuTextBox4.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox4.Modified = False
+        Me.BunifuTextBox4.Multiline = False
+        Me.BunifuTextBox4.Name = "BunifuTextBox4"
+        StateProperties25.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties25.FillColor = System.Drawing.Color.Empty
+        StateProperties25.ForeColor = System.Drawing.Color.Empty
+        StateProperties25.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox4.OnActiveState = StateProperties25
+        StateProperties26.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties26.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties26.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties26.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox4.OnDisabledState = StateProperties26
+        StateProperties27.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties27.FillColor = System.Drawing.Color.Empty
+        StateProperties27.ForeColor = System.Drawing.Color.Empty
+        StateProperties27.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox4.OnHoverState = StateProperties27
+        StateProperties28.BorderColor = System.Drawing.Color.Silver
+        StateProperties28.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties28.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties28.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox4.OnIdleState = StateProperties28
+        Me.BunifuTextBox4.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox4.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox4.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox4.PlaceholderText = "PHP"
+        Me.BunifuTextBox4.ReadOnly = False
+        Me.BunifuTextBox4.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox4.SelectedText = ""
+        Me.BunifuTextBox4.SelectionLength = 0
+        Me.BunifuTextBox4.SelectionStart = 0
+        Me.BunifuTextBox4.ShortcutsEnabled = True
+        Me.BunifuTextBox4.Size = New System.Drawing.Size(65, 33)
+        Me.BunifuTextBox4.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox4.TabIndex = 146
+        Me.BunifuTextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox4.TextMarginBottom = 0
+        Me.BunifuTextBox4.TextMarginLeft = 3
+        Me.BunifuTextBox4.TextMarginTop = 0
+        Me.BunifuTextBox4.TextPlaceholder = "PHP"
+        Me.BunifuTextBox4.UseSystemPasswordChar = False
+        Me.BunifuTextBox4.WordWrap = True
         '
-        'TooltipHEA
+        'BunifuTextBox5
         '
-        Me.TooltipHEA.Active = True
-        Me.TooltipHEA.AlignTextWithTitle = False
-        Me.TooltipHEA.AllowAutoClose = False
-        Me.TooltipHEA.AllowFading = True
-        Me.TooltipHEA.AutoCloseDuration = 5000
-        Me.TooltipHEA.BackColor = System.Drawing.SystemColors.Control
-        Me.TooltipHEA.BorderColor = System.Drawing.Color.Gainsboro
-        Me.TooltipHEA.ClickToShowDisplayControl = False
-        Me.TooltipHEA.ConvertNewlinesToBreakTags = True
-        Me.TooltipHEA.DisplayControl = Nothing
-        Me.TooltipHEA.EntryAnimationSpeed = 350
-        Me.TooltipHEA.ExitAnimationSpeed = 200
-        Me.TooltipHEA.GenerateAutoCloseDuration = False
-        Me.TooltipHEA.IconMargin = 6
-        Me.TooltipHEA.InitialDelay = 0
-        Me.TooltipHEA.Name = "TooltipHEA"
-        Me.TooltipHEA.Opacity = 1.0R
-        Me.TooltipHEA.OverrideToolTipTitles = False
-        Me.TooltipHEA.Padding = New System.Windows.Forms.Padding(10)
-        Me.TooltipHEA.ReshowDelay = 100
-        Me.TooltipHEA.ShowAlways = True
-        Me.TooltipHEA.ShowBorders = False
-        Me.TooltipHEA.ShowIcons = True
-        Me.TooltipHEA.ShowShadows = True
-        Me.TooltipHEA.Tag = Nothing
-        Me.TooltipHEA.TextFont = New System.Drawing.Font("Segoe UI", 9.0!)
-        Me.TooltipHEA.TextForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        Me.TooltipHEA.TextMargin = 2
-        Me.TooltipHEA.TitleFont = New System.Drawing.Font("Segoe UI", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TooltipHEA.TitleForeColor = System.Drawing.Color.Black
-        Me.TooltipHEA.ToolTipPosition = New System.Drawing.Point(0, 0)
-        Me.TooltipHEA.ToolTipTitle = "Pinaka mataas na antas natamo sa edukasyon"
+        Me.BunifuTextBox5.AcceptsReturn = False
+        Me.BunifuTextBox5.AcceptsTab = False
+        Me.BunifuTextBox5.AnimationSpeed = 200
+        Me.BunifuTextBox5.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox5.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox5.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox5.BackgroundImage = CType(resources.GetObject("BunifuTextBox5.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox5.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox5.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox5.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox5.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox5.BorderRadius = 1
+        Me.BunifuTextBox5.BorderThickness = 1
+        Me.BunifuTextBox5.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox5.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox5.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox5.DefaultText = ""
+        Me.BunifuTextBox5.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox5.HideSelection = True
+        Me.BunifuTextBox5.IconLeft = Nothing
+        Me.BunifuTextBox5.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox5.IconPadding = 10
+        Me.BunifuTextBox5.IconRight = Nothing
+        Me.BunifuTextBox5.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox5.Lines = New String(-1) {}
+        Me.BunifuTextBox5.Location = New System.Drawing.Point(307, 307)
+        Me.BunifuTextBox5.MaxLength = 32767
+        Me.BunifuTextBox5.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox5.Modified = False
+        Me.BunifuTextBox5.Multiline = False
+        Me.BunifuTextBox5.Name = "BunifuTextBox5"
+        StateProperties21.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties21.FillColor = System.Drawing.Color.Empty
+        StateProperties21.ForeColor = System.Drawing.Color.Empty
+        StateProperties21.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox5.OnActiveState = StateProperties21
+        StateProperties22.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties22.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties22.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties22.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox5.OnDisabledState = StateProperties22
+        StateProperties23.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties23.FillColor = System.Drawing.Color.Empty
+        StateProperties23.ForeColor = System.Drawing.Color.Empty
+        StateProperties23.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox5.OnHoverState = StateProperties23
+        StateProperties24.BorderColor = System.Drawing.Color.Silver
+        StateProperties24.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties24.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox5.OnIdleState = StateProperties24
+        Me.BunifuTextBox5.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox5.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox5.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox5.PlaceholderText = ""
+        Me.BunifuTextBox5.ReadOnly = False
+        Me.BunifuTextBox5.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox5.SelectedText = ""
+        Me.BunifuTextBox5.SelectionLength = 0
+        Me.BunifuTextBox5.SelectionStart = 0
+        Me.BunifuTextBox5.ShortcutsEnabled = True
+        Me.BunifuTextBox5.Size = New System.Drawing.Size(65, 31)
+        Me.BunifuTextBox5.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox5.TabIndex = 147
+        Me.BunifuTextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox5.TextMarginBottom = 0
+        Me.BunifuTextBox5.TextMarginLeft = 3
+        Me.BunifuTextBox5.TextMarginTop = 0
+        Me.BunifuTextBox5.TextPlaceholder = ""
+        Me.BunifuTextBox5.UseSystemPasswordChar = False
+        Me.BunifuTextBox5.WordWrap = True
         '
-        'DPISSUED
+        'BunifuTextBox6
         '
-        Me.DPISSUED.BackColor = System.Drawing.Color.Transparent
-        Me.DPISSUED.BorderRadius = 1
-        Me.DPISSUED.Color = System.Drawing.Color.Silver
-        Me.DPISSUED.DateBorderThickness = Bunifu.UI.WinForms.BunifuDatePicker.BorderThickness.Thin
-        Me.DPISSUED.DateTextAlign = Bunifu.UI.WinForms.BunifuDatePicker.TextAlign.Left
-        Me.DPISSUED.DisabledColor = System.Drawing.Color.Gray
-        Me.DPISSUED.DisplayWeekNumbers = False
-        Me.DPISSUED.DPHeight = 0
-        Me.DPISSUED.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
-        Me.DPISSUED.FillDatePicker = False
-        Me.DPISSUED.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DPISSUED.ForeColor = System.Drawing.Color.Black
-        Me.DPISSUED.Icon = CType(resources.GetObject("DPISSUED.Icon"), System.Drawing.Image)
-        Me.DPISSUED.IconColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.DPISSUED.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right
-        Me.DPISSUED.LeftTextMargin = 5
-        Me.DPISSUED.Location = New System.Drawing.Point(425, 844)
-        Me.DPISSUED.MinimumSize = New System.Drawing.Size(4, 32)
-        Me.DPISSUED.Name = "DPISSUED"
-        Me.DPISSUED.Size = New System.Drawing.Size(173, 32)
-        Me.DPISSUED.TabIndex = 132
-        Me.TooltipHEA.SetToolTip(Me.DPISSUED, "")
-        Me.TooltipHEA.SetToolTipIcon(Me.DPISSUED, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me.DPISSUED, "")
-        Me.DPISSUED.Value = New Date(2023, 3, 11, 21, 3, 0, 0)
+        Me.BunifuTextBox6.AcceptsReturn = False
+        Me.BunifuTextBox6.AcceptsTab = False
+        Me.BunifuTextBox6.AnimationSpeed = 200
+        Me.BunifuTextBox6.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox6.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox6.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox6.BackgroundImage = CType(resources.GetObject("BunifuTextBox6.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox6.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox6.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox6.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox6.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox6.BorderRadius = 1
+        Me.BunifuTextBox6.BorderThickness = 1
+        Me.BunifuTextBox6.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox6.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox6.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox6.DefaultText = ""
+        Me.BunifuTextBox6.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox6.HideSelection = True
+        Me.BunifuTextBox6.IconLeft = Nothing
+        Me.BunifuTextBox6.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox6.IconPadding = 10
+        Me.BunifuTextBox6.IconRight = Nothing
+        Me.BunifuTextBox6.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox6.Lines = New String(-1) {}
+        Me.BunifuTextBox6.Location = New System.Drawing.Point(637, 307)
+        Me.BunifuTextBox6.MaxLength = 32767
+        Me.BunifuTextBox6.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox6.Modified = False
+        Me.BunifuTextBox6.Multiline = False
+        Me.BunifuTextBox6.Name = "BunifuTextBox6"
+        StateProperties17.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties17.FillColor = System.Drawing.Color.Empty
+        StateProperties17.ForeColor = System.Drawing.Color.Empty
+        StateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox6.OnActiveState = StateProperties17
+        StateProperties18.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties18.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties18.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties18.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox6.OnDisabledState = StateProperties18
+        StateProperties19.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties19.FillColor = System.Drawing.Color.Empty
+        StateProperties19.ForeColor = System.Drawing.Color.Empty
+        StateProperties19.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox6.OnHoverState = StateProperties19
+        StateProperties20.BorderColor = System.Drawing.Color.Silver
+        StateProperties20.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties20.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties20.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox6.OnIdleState = StateProperties20
+        Me.BunifuTextBox6.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox6.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox6.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox6.PlaceholderText = ""
+        Me.BunifuTextBox6.ReadOnly = False
+        Me.BunifuTextBox6.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox6.SelectedText = ""
+        Me.BunifuTextBox6.SelectionLength = 0
+        Me.BunifuTextBox6.SelectionStart = 0
+        Me.BunifuTextBox6.ShortcutsEnabled = True
+        Me.BunifuTextBox6.Size = New System.Drawing.Size(65, 31)
+        Me.BunifuTextBox6.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox6.TabIndex = 148
+        Me.BunifuTextBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox6.TextMarginBottom = 0
+        Me.BunifuTextBox6.TextMarginLeft = 3
+        Me.BunifuTextBox6.TextMarginTop = 0
+        Me.BunifuTextBox6.TextPlaceholder = ""
+        Me.BunifuTextBox6.UseSystemPasswordChar = False
+        Me.BunifuTextBox6.WordWrap = True
+        '
+        'BunifuLabel38
+        '
+        Me.BunifuLabel38.AllowParentOverrides = False
+        Me.BunifuLabel38.AutoEllipsis = False
+        Me.BunifuLabel38.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel38.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel38.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel38.Location = New System.Drawing.Point(65, 354)
+        Me.BunifuLabel38.Name = "BunifuLabel38"
+        Me.BunifuLabel38.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel38.Size = New System.Drawing.Size(247, 15)
+        Me.BunifuLabel38.TabIndex = 149
+        Me.BunifuLabel38.Text = "cooperative. and to pay the amount of the Php"
+        Me.BunifuLabel38.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel38.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel42
+        '
+        Me.BunifuLabel42.AllowParentOverrides = False
+        Me.BunifuLabel42.AutoEllipsis = False
+        Me.BunifuLabel42.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel42.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel42.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel42.Location = New System.Drawing.Point(708, 323)
+        Me.BunifuLabel42.Name = "BunifuLabel42"
+        Me.BunifuLabel42.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel42.Size = New System.Drawing.Size(160, 15)
+        Me.BunifuLabel42.TabIndex = 150
+        Me.BunifuLabel42.Text = "of the Capital stock of the said "
+        Me.BunifuLabel42.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel42.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel43
+        '
+        Me.BunifuLabel43.AllowParentOverrides = False
+        Me.BunifuLabel43.AutoEllipsis = False
+        Me.BunifuLabel43.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel43.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel43.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel43.Location = New System.Drawing.Point(70, 384)
+        Me.BunifuLabel43.Name = "BunifuLabel43"
+        Me.BunifuLabel43.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel43.Size = New System.Drawing.Size(501, 15)
+        Me.BunifuLabel43.TabIndex = 151
+        Me.BunifuLabel43.Text = " I promise  to pay  in weekly /semi monthly/monthly quarterly/semi annually insta" &
+    "llments of Php "
+        Me.BunifuLabel43.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel43.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuTextBox7
+        '
+        Me.BunifuTextBox7.AcceptsReturn = False
+        Me.BunifuTextBox7.AcceptsTab = False
+        Me.BunifuTextBox7.AnimationSpeed = 200
+        Me.BunifuTextBox7.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox7.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox7.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox7.BackgroundImage = CType(resources.GetObject("BunifuTextBox7.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox7.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox7.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox7.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox7.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox7.BorderRadius = 1
+        Me.BunifuTextBox7.BorderThickness = 1
+        Me.BunifuTextBox7.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox7.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox7.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox7.DefaultText = ""
+        Me.BunifuTextBox7.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox7.HideSelection = True
+        Me.BunifuTextBox7.IconLeft = Nothing
+        Me.BunifuTextBox7.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox7.IconPadding = 10
+        Me.BunifuTextBox7.IconRight = Nothing
+        Me.BunifuTextBox7.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox7.Lines = New String(-1) {}
+        Me.BunifuTextBox7.Location = New System.Drawing.Point(318, 346)
+        Me.BunifuTextBox7.MaxLength = 32767
+        Me.BunifuTextBox7.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox7.Modified = False
+        Me.BunifuTextBox7.Multiline = False
+        Me.BunifuTextBox7.Name = "BunifuTextBox7"
+        StateProperties13.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties13.FillColor = System.Drawing.Color.Empty
+        StateProperties13.ForeColor = System.Drawing.Color.Empty
+        StateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox7.OnActiveState = StateProperties13
+        StateProperties14.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties14.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties14.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox7.OnDisabledState = StateProperties14
+        StateProperties15.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties15.FillColor = System.Drawing.Color.Empty
+        StateProperties15.ForeColor = System.Drawing.Color.Empty
+        StateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox7.OnHoverState = StateProperties15
+        StateProperties16.BorderColor = System.Drawing.Color.Silver
+        StateProperties16.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties16.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox7.OnIdleState = StateProperties16
+        Me.BunifuTextBox7.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox7.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox7.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox7.PlaceholderText = ""
+        Me.BunifuTextBox7.ReadOnly = False
+        Me.BunifuTextBox7.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox7.SelectedText = ""
+        Me.BunifuTextBox7.SelectionLength = 0
+        Me.BunifuTextBox7.SelectionStart = 0
+        Me.BunifuTextBox7.ShortcutsEnabled = True
+        Me.BunifuTextBox7.Size = New System.Drawing.Size(65, 31)
+        Me.BunifuTextBox7.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox7.TabIndex = 152
+        Me.BunifuTextBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox7.TextMarginBottom = 0
+        Me.BunifuTextBox7.TextMarginLeft = 3
+        Me.BunifuTextBox7.TextMarginTop = 0
+        Me.BunifuTextBox7.TextPlaceholder = ""
+        Me.BunifuTextBox7.UseSystemPasswordChar = False
+        Me.BunifuTextBox7.WordWrap = True
+        '
+        'BunifuTextBox8
+        '
+        Me.BunifuTextBox8.AcceptsReturn = False
+        Me.BunifuTextBox8.AcceptsTab = False
+        Me.BunifuTextBox8.AnimationSpeed = 200
+        Me.BunifuTextBox8.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox8.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox8.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox8.BackgroundImage = CType(resources.GetObject("BunifuTextBox8.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox8.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox8.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox8.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox8.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox8.BorderRadius = 1
+        Me.BunifuTextBox8.BorderThickness = 1
+        Me.BunifuTextBox8.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox8.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox8.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox8.DefaultText = ""
+        Me.BunifuTextBox8.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox8.HideSelection = True
+        Me.BunifuTextBox8.IconLeft = Nothing
+        Me.BunifuTextBox8.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox8.IconPadding = 10
+        Me.BunifuTextBox8.IconRight = Nothing
+        Me.BunifuTextBox8.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox8.Lines = New String(-1) {}
+        Me.BunifuTextBox8.Location = New System.Drawing.Point(577, 375)
+        Me.BunifuTextBox8.MaxLength = 32767
+        Me.BunifuTextBox8.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox8.Modified = False
+        Me.BunifuTextBox8.Multiline = False
+        Me.BunifuTextBox8.Name = "BunifuTextBox8"
+        StateProperties9.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties9.FillColor = System.Drawing.Color.Empty
+        StateProperties9.ForeColor = System.Drawing.Color.Empty
+        StateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox8.OnActiveState = StateProperties9
+        StateProperties10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties10.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox8.OnDisabledState = StateProperties10
+        StateProperties11.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties11.FillColor = System.Drawing.Color.Empty
+        StateProperties11.ForeColor = System.Drawing.Color.Empty
+        StateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox8.OnHoverState = StateProperties11
+        StateProperties12.BorderColor = System.Drawing.Color.Silver
+        StateProperties12.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties12.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox8.OnIdleState = StateProperties12
+        Me.BunifuTextBox8.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox8.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox8.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox8.PlaceholderText = ""
+        Me.BunifuTextBox8.ReadOnly = False
+        Me.BunifuTextBox8.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox8.SelectedText = ""
+        Me.BunifuTextBox8.SelectionLength = 0
+        Me.BunifuTextBox8.SelectionStart = 0
+        Me.BunifuTextBox8.ShortcutsEnabled = True
+        Me.BunifuTextBox8.Size = New System.Drawing.Size(65, 31)
+        Me.BunifuTextBox8.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox8.TabIndex = 153
+        Me.BunifuTextBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox8.TextMarginBottom = 0
+        Me.BunifuTextBox8.TextMarginLeft = 3
+        Me.BunifuTextBox8.TextMarginTop = 0
+        Me.BunifuTextBox8.TextPlaceholder = ""
+        Me.BunifuTextBox8.UseSystemPasswordChar = False
+        Me.BunifuTextBox8.WordWrap = True
+        '
+        'BunifuPictureBox1
+        '
+        Me.BunifuPictureBox1.AllowFocused = False
+        Me.BunifuPictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.BunifuPictureBox1.AutoSizeHeight = True
+        Me.BunifuPictureBox1.BorderRadius = 0
+        Me.BunifuPictureBox1.Image = CType(resources.GetObject("BunifuPictureBox1.Image"), System.Drawing.Image)
+        Me.BunifuPictureBox1.IsCircle = True
+        Me.BunifuPictureBox1.Location = New System.Drawing.Point(804, -279)
+        Me.BunifuPictureBox1.Name = "BunifuPictureBox1"
+        Me.BunifuPictureBox1.Size = New System.Drawing.Size(100, 100)
+        Me.BunifuPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.BunifuPictureBox1.TabIndex = 154
+        Me.BunifuPictureBox1.TabStop = False
+        Me.BunifuPictureBox1.Type = Bunifu.UI.WinForms.BunifuPictureBox.Types.Circle
+        '
+        'BunifuTextBox9
+        '
+        Me.BunifuTextBox9.AcceptsReturn = False
+        Me.BunifuTextBox9.AcceptsTab = False
+        Me.BunifuTextBox9.AnimationSpeed = 200
+        Me.BunifuTextBox9.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox9.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox9.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox9.BackgroundImage = CType(resources.GetObject("BunifuTextBox9.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox9.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox9.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox9.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox9.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox9.BorderRadius = 1
+        Me.BunifuTextBox9.BorderThickness = 1
+        Me.BunifuTextBox9.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox9.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox9.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox9.DefaultText = ""
+        Me.BunifuTextBox9.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox9.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox9.HideSelection = True
+        Me.BunifuTextBox9.IconLeft = Nothing
+        Me.BunifuTextBox9.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox9.IconPadding = 10
+        Me.BunifuTextBox9.IconRight = Nothing
+        Me.BunifuTextBox9.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox9.Lines = New String(-1) {}
+        Me.BunifuTextBox9.Location = New System.Drawing.Point(626, 421)
+        Me.BunifuTextBox9.MaxLength = 32767
+        Me.BunifuTextBox9.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox9.Modified = False
+        Me.BunifuTextBox9.Multiline = False
+        Me.BunifuTextBox9.Name = "BunifuTextBox9"
+        StateProperties5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties5.FillColor = System.Drawing.Color.Empty
+        StateProperties5.ForeColor = System.Drawing.Color.Empty
+        StateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox9.OnActiveState = StateProperties5
+        StateProperties6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties6.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox9.OnDisabledState = StateProperties6
+        StateProperties7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties7.FillColor = System.Drawing.Color.Empty
+        StateProperties7.ForeColor = System.Drawing.Color.Empty
+        StateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox9.OnHoverState = StateProperties7
+        StateProperties8.BorderColor = System.Drawing.Color.Silver
+        StateProperties8.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox9.OnIdleState = StateProperties8
+        Me.BunifuTextBox9.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox9.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox9.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox9.PlaceholderText = ""
+        Me.BunifuTextBox9.ReadOnly = False
+        Me.BunifuTextBox9.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox9.SelectedText = ""
+        Me.BunifuTextBox9.SelectionLength = 0
+        Me.BunifuTextBox9.SelectionStart = 0
+        Me.BunifuTextBox9.ShortcutsEnabled = True
+        Me.BunifuTextBox9.Size = New System.Drawing.Size(194, 37)
+        Me.BunifuTextBox9.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox9.TabIndex = 155
+        Me.BunifuTextBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox9.TextMarginBottom = 0
+        Me.BunifuTextBox9.TextMarginLeft = 3
+        Me.BunifuTextBox9.TextMarginTop = 0
+        Me.BunifuTextBox9.TextPlaceholder = ""
+        Me.BunifuTextBox9.UseSystemPasswordChar = False
+        Me.BunifuTextBox9.WordWrap = True
+        '
+        'BunifuTextBox10
+        '
+        Me.BunifuTextBox10.AcceptsReturn = False
+        Me.BunifuTextBox10.AcceptsTab = False
+        Me.BunifuTextBox10.AnimationSpeed = 200
+        Me.BunifuTextBox10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.BunifuTextBox10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.BunifuTextBox10.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox10.BackgroundImage = CType(resources.GetObject("BunifuTextBox10.BackgroundImage"), System.Drawing.Image)
+        Me.BunifuTextBox10.BorderColorActive = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox10.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.BunifuTextBox10.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox10.BorderColorIdle = System.Drawing.Color.Silver
+        Me.BunifuTextBox10.BorderRadius = 1
+        Me.BunifuTextBox10.BorderThickness = 1
+        Me.BunifuTextBox10.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.BunifuTextBox10.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox10.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.BunifuTextBox10.DefaultText = ""
+        Me.BunifuTextBox10.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BunifuTextBox10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuTextBox10.HideSelection = True
+        Me.BunifuTextBox10.IconLeft = Nothing
+        Me.BunifuTextBox10.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox10.IconPadding = 10
+        Me.BunifuTextBox10.IconRight = Nothing
+        Me.BunifuTextBox10.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.BunifuTextBox10.Lines = New String(-1) {}
+        Me.BunifuTextBox10.Location = New System.Drawing.Point(626, 485)
+        Me.BunifuTextBox10.MaxLength = 32767
+        Me.BunifuTextBox10.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.BunifuTextBox10.Modified = False
+        Me.BunifuTextBox10.Multiline = False
+        Me.BunifuTextBox10.Name = "BunifuTextBox10"
+        StateProperties1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties1.FillColor = System.Drawing.Color.Empty
+        StateProperties1.ForeColor = System.Drawing.Color.Empty
+        StateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox10.OnActiveState = StateProperties1
+        StateProperties2.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties2.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.BunifuTextBox10.OnDisabledState = StateProperties2
+        StateProperties3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties3.FillColor = System.Drawing.Color.Empty
+        StateProperties3.ForeColor = System.Drawing.Color.Empty
+        StateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox10.OnHoverState = StateProperties3
+        StateProperties4.BorderColor = System.Drawing.Color.Silver
+        StateProperties4.FillColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(237, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        StateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.BunifuTextBox10.OnIdleState = StateProperties4
+        Me.BunifuTextBox10.Padding = New System.Windows.Forms.Padding(3)
+        Me.BunifuTextBox10.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.BunifuTextBox10.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.BunifuTextBox10.PlaceholderText = ""
+        Me.BunifuTextBox10.ReadOnly = False
+        Me.BunifuTextBox10.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.BunifuTextBox10.SelectedText = ""
+        Me.BunifuTextBox10.SelectionLength = 0
+        Me.BunifuTextBox10.SelectionStart = 0
+        Me.BunifuTextBox10.ShortcutsEnabled = True
+        Me.BunifuTextBox10.Size = New System.Drawing.Size(194, 37)
+        Me.BunifuTextBox10.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.BunifuTextBox10.TabIndex = 156
+        Me.BunifuTextBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.BunifuTextBox10.TextMarginBottom = 0
+        Me.BunifuTextBox10.TextMarginLeft = 3
+        Me.BunifuTextBox10.TextMarginTop = 0
+        Me.BunifuTextBox10.TextPlaceholder = ""
+        Me.BunifuTextBox10.UseSystemPasswordChar = False
+        Me.BunifuTextBox10.WordWrap = True
+        '
+        'BunifuLabel44
+        '
+        Me.BunifuLabel44.AllowParentOverrides = False
+        Me.BunifuLabel44.AutoEllipsis = False
+        Me.BunifuLabel44.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel44.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel44.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel44.Location = New System.Drawing.Point(636, 528)
+        Me.BunifuLabel44.Name = "BunifuLabel44"
+        Me.BunifuLabel44.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel44.Size = New System.Drawing.Size(24, 15)
+        Me.BunifuLabel44.TabIndex = 157
+        Me.BunifuLabel44.Text = "Date"
+        Me.BunifuLabel44.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel44.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuLabel45
+        '
+        Me.BunifuLabel45.AllowParentOverrides = False
+        Me.BunifuLabel45.AutoEllipsis = False
+        Me.BunifuLabel45.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel45.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel45.Font = New System.Drawing.Font("Segoe UI Semibold", 14.25!, System.Drawing.FontStyle.Bold)
+        Me.BunifuLabel45.ForeColor = System.Drawing.Color.Black
+        Me.BunifuLabel45.Location = New System.Drawing.Point(371, 150)
+        Me.BunifuLabel45.Name = "BunifuLabel45"
+        Me.BunifuLabel45.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel45.Size = New System.Drawing.Size(241, 25)
+        Me.BunifuLabel45.TabIndex = 160
+        Me.BunifuLabel45.Text = "Application for Membership"
+        Me.BunifuLabel45.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel45.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'BunifuPictureBox2
+        '
+        Me.BunifuPictureBox2.AllowFocused = False
+        Me.BunifuPictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.BunifuPictureBox2.AutoSizeHeight = True
+        Me.BunifuPictureBox2.BorderRadius = 46
+        Me.BunifuPictureBox2.Image = Global.Pag_asa_Mutti_Purpose_Cooperative.My.Resources.Resources.FB_IMG_1673280633955_removebg_preview
+        Me.BunifuPictureBox2.IsCircle = True
+        Me.BunifuPictureBox2.Location = New System.Drawing.Point(25, -270)
+        Me.BunifuPictureBox2.Name = "BunifuPictureBox2"
+        Me.BunifuPictureBox2.Size = New System.Drawing.Size(93, 93)
+        Me.BunifuPictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.BunifuPictureBox2.TabIndex = 161
+        Me.BunifuPictureBox2.TabStop = False
+        Me.BunifuPictureBox2.Type = Bunifu.UI.WinForms.BunifuPictureBox.Types.Circle
+        '
+        'BunifuLabel46
+        '
+        Me.BunifuLabel46.AllowParentOverrides = False
+        Me.BunifuLabel46.AutoEllipsis = False
+        Me.BunifuLabel46.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel46.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel46.Font = New System.Drawing.Font("Segoe UI Semibold", 14.25!, System.Drawing.FontStyle.Bold)
+        Me.BunifuLabel46.ForeColor = System.Drawing.Color.FromArgb(CType(CType(103, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(245, Byte), Integer))
+        Me.BunifuLabel46.Location = New System.Drawing.Point(307, 62)
+        Me.BunifuLabel46.Name = "BunifuLabel46"
+        Me.BunifuLabel46.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel46.Size = New System.Drawing.Size(386, 25)
+        Me.BunifuLabel46.TabIndex = 162
+        Me.BunifuLabel46.Text = "MULTI PURPOSE COOPERATIVE OF PAG-ASA" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.BunifuLabel46.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel46.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'Guna2Separator1
+        '
+        Me.Guna2Separator1.FillColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.Guna2Separator1.FillThickness = 3
+        Me.Guna2Separator1.Location = New System.Drawing.Point(53, 116)
+        Me.Guna2Separator1.Name = "Guna2Separator1"
+        Me.Guna2Separator1.Size = New System.Drawing.Size(844, 10)
+        Me.Guna2Separator1.TabIndex = 163
         '
         'USRCTRLMEMBERSHIPAPP
         '
@@ -3329,19 +4128,16 @@ Partial Class USRCTRLMEMBERSHIPAPP
         Me.Controls.Add(Me.PNLMEMAPP)
         Me.Name = "USRCTRLMEMBERSHIPAPP"
         Me.Size = New System.Drawing.Size(941, 852)
-        Me.TooltipHEA.SetToolTip(Me, "")
-        Me.TooltipHEA.SetToolTipIcon(Me, Nothing)
-        Me.TooltipHEA.SetToolTipTitle(Me, "")
         Me.PNLMEMAPP.ResumeLayout(False)
         Me.PNLMEMAPP.PerformLayout()
+        CType(Me.BunifuPictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.BunifuPictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
 
     Friend WithEvents PNLMEMAPP As Bunifu.UI.WinForms.BunifuPanel
-    Friend WithEvents TooltipHEA As Bunifu.UI.WinForms.BunifuToolTip
     Friend WithEvents BunifuLabel16 As Bunifu.UI.WinForms.BunifuLabel
-    Friend WithEvents DPBDAY As Bunifu.UI.WinForms.BunifuDatePicker
     Friend WithEvents BunifuLabel12 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents BunifuLabel11 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents BunifuLabel10 As Bunifu.UI.WinForms.BunifuLabel
@@ -3355,7 +4151,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
     Friend WithEvents TXTRELATIVE As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuLabel13 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents BunifuLabel9 As Bunifu.UI.WinForms.BunifuLabel
-    Friend WithEvents TXTHEA As Guna.UI2.WinForms.Guna2ComboBox
     Friend WithEvents BunifuLabel6 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents BunifuLabel5 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents LBLCS As Bunifu.UI.WinForms.BunifuLabel
@@ -3373,7 +4168,6 @@ Partial Class USRCTRLMEMBERSHIPAPP
     Friend WithEvents TXTTIN As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents TXTNAME As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuLabel1 As Bunifu.UI.WinForms.BunifuLabel
-    Friend WithEvents LBLDASHBOARD As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents BunifuLabel27 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents TXT5 As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuLabel25 As Bunifu.UI.WinForms.BunifuLabel
@@ -3405,5 +4199,32 @@ Partial Class USRCTRLMEMBERSHIPAPP
     Friend WithEvents TXTISSUED As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuLabel29 As Bunifu.UI.WinForms.BunifuLabel
     Friend WithEvents TXTRESCERT As Bunifu.UI.WinForms.BunifuTextBox
-    Friend WithEvents DPISSUED As Bunifu.UI.WinForms.BunifuDatePicker
+    Friend WithEvents BunifuTextBox1 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuTextBox2 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuLabel41 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel40 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel39 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel37 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel36 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel35 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel34 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel33 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel4 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuTextBox3 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuLabel46 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuPictureBox2 As Bunifu.UI.WinForms.BunifuPictureBox
+    Friend WithEvents BunifuLabel45 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel44 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuTextBox10 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuTextBox9 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuPictureBox1 As Bunifu.UI.WinForms.BunifuPictureBox
+    Friend WithEvents BunifuTextBox8 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuTextBox7 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuLabel43 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel42 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuLabel38 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents BunifuTextBox6 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuTextBox5 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuTextBox4 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents Guna2Separator1 As Guna.UI2.WinForms.Guna2Separator
 End Class

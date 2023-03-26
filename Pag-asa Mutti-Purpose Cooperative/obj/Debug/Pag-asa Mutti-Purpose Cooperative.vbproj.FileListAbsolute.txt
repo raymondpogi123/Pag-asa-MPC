@@ -210,3 +210,41 @@ C:\Users\Raymond\Desktop\Pag-asa-MPC-master\Pag-asa-MPC\Pag-asa Mutti-Purpose Co
 C:\Users\Raymond\Desktop\Pag-asa-MPC-master\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.exe
 C:\Users\Raymond\Desktop\Pag-asa-MPC-master\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.xml
 C:\Users\Raymond\Desktop\Pag-asa-MPC-master\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.pdb
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Pag-asa Mutti-Purpose Cooperative.exe.config
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Pag-asa Mutti-Purpose Cooperative.exe
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Pag-asa Mutti-Purpose Cooperative.pdb
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Pag-asa Mutti-Purpose Cooperative.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.vbprojAssemblyReference.cache
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.exe.config
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.FRMLOGIN.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.FRMMAIN.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.Resources.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.UserManagement.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCRTLDASHBOARD.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCRTLLOAN.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCRTLMEMBERGIFT.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCTRLMEMBERSHIPAPP.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCTRLRICELOANAPP.resources
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.vbproj.GenerateResource.cache
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.exe.licenses
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.vbproj.CoreCompileInputs.cache
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.vbproj.CopyComplete
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.exe
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.xml
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag-asa Mutti-Purpose Cooperative.pdb
+C:\Users\Mr.Lafitte\Documents\Pag-asa-MPC\Pag-asa Mutti-Purpose Cooperative\obj\Debug\Pag_asa_Mutti_Purpose_Cooperative.USRCRTLCashloanApp.resources
